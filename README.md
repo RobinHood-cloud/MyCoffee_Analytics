@@ -4,23 +4,21 @@
 > Company (simulated): **My Coffee** (London-based, 6 branches)  
 > Data: **Synthetic**, designed to mimic real café operations
 
-![Model Diagram](Assets/Images/Model_Schema.png)
 
-<p align="center">
-  <a href="#-analysis-windows">Analysis Windows</a> •
-  <a href="#-project-overview">Overview</a> •
-  <a href="#-objectives">Objectives</a> •
-  <a href="#-data--scope">Data & Scope</a> •
-  <a href="#-modelling-approach">Modelling</a> •
-  <a href="#-report-experience-4-pages">Report Pages</a> •
-  <a href="#-assumptions--limitations">Assumptions</a> •
-  <a href="#-how-to-run">How to Run</a> •
-  <a href="#-deliverables--assets">Deliverables</a>
-</p>
+## Table of Contents
+- [Analysis Windows](#analysis-windows)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data & Scope](#data--scope)
+- [Modelling Approach](#modelling-approach)
+- [Report Experience (4 Pages)](#report-experience-4-pages)
+- [Assumptions & Limitations](#assumptions--limitations)
+- [How to Run](#how-to-run)
+- [Deliverables & Assets](#deliverables--assets)
 
 ---
 
-##  Analysis Windows
+## Analysis Windows
 - **Last year:** 1 Jan 2024 – 2 Mar 2024  
 - **Current year:** 1 Jan 2025 – 2 Mar 2025
 
@@ -28,23 +26,23 @@
 
 ---
 
-##  Project Overview
+## Project Overview
 Production-style reporting for **My Coffee** to help managers quickly understand **sales performance**, **branch comparisons**, **product winners/laggards**, **waste drivers**, and **customer reviews**, with **week-over-week** and **same week last year** context.
 
 > *Data are generated to simulate real case work; insights on seasonality, trends, and reviews are illustrative.*
 
 ---
 
-##  Objectives
-- Provide an **executive Home dashboard** with core KPIs and week/year comparisons.  
-- Highlight **top/bottom products** and **waste-driving items** (by category and product).  
-- Offer **branch-level performance** views for operational benchmarking.  
-- Enable **product deep dives** (price vs demand, underperformers to improve/re-price/retire).  
-- Surface **review analytics** (rating trends and detailed feedback).
+## Objectives
+- **Executive KPIs:** Clear Home dashboard with WoW and YoY comparisons.  
+- **Product focus:** Top/bottom sellers and items driving **waste** by category & PLU.  
+- **Branch benchmarking:** Side-by-side branch performance for quick diagnosis.  
+- **Deep dives:** Price ↔ demand signals; underperformers to **improve / re-price / retire**.  
+- **Reviews analytics:** Rating trends and detailed feedback for quality control.
 
 ---
 
-##  Data & Scope
+## Data & Scope
 
 ### Tables (8 total)
 
@@ -81,10 +79,12 @@ Week comparisons use **week number vs the same week number last year** (Power BI
 
 ---
 
-##  Modelling Approach
+## Modelling Approach
 
 ### Star schema
 Facts connect to dimensions via keys; **single-direction filters** from dimensions to facts (one-to-many). Conformed dimensions (product/category) enable consistent slicing across all facts.
+
+![Model Diagram](Assets/Images/Model_Schema.png)
 
 > **Decision note:** Star schema keeps relationships clear, visuals fast, and future facts easy to add (chosen over flat/snowflake for this scope).
 
@@ -104,7 +104,7 @@ Created at refresh by deriving Min/Max dates from the fact tables and expanding 
 
 ---
 
-##  Report Experience (4 Pages)
+## Report Experience (4 Pages)
 
 ### A) Home (Executive Dashboard)
 - Branch selector & period controls (week focus).  
@@ -143,7 +143,7 @@ Created at refresh by deriving Min/Max dates from the fact tables and expanding 
 
 ---
 
-##  Assumptions & Limitations
+## Assumptions & Limitations
 - Synthetic data limits seasonality, trend fidelity, and review realism.  
 - Scope exclusions: labour, promotions, loyalty, and other datasets.  
 - No discounts modeled; VAT-only deduction for Net Sales.  
@@ -162,7 +162,7 @@ Created at refresh by deriving Min/Max dates from the fact tables and expanding 
 
 ---
 
-##  Deliverables & Assets
+## Deliverables & Assets
 - **Power BI file:** `MyCoffee_Analytics.pbix`  
 - **Data:** `/Data/*.csv`  
 - **Model diagram:** `Assets/Images/Model_Schema.png`  
@@ -170,3 +170,4 @@ Created at refresh by deriving Min/Max dates from the fact tables and expanding 
   - `Assets/Images/Home_Page_ Overview.png`  
   - `Assets/Images/Branch_Perfomance_Overview.png`  
   - `Assets/Images/Product_Perfomance_Overview.png`  
+  - `Assets/Images/Reviews_Report_Overview.png`
