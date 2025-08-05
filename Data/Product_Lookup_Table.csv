@@ -1,0 +1,51 @@
+PLU Key,PLU Name,Category key,Unit of Measure,Portion Size,Production Cost (£),Price (£),Gross Margin %,VAT Rate %,Shelf Life (days)
+1001,Espresso,1,ml,60,0.2,2.5,92.0,20,0
+1002,Americano,1,ml,350,0.22,2.7,91.9,20,0
+1003,Cappuccino,1,ml,300,0.35,3.2,89.1,20,0
+1004,Caffè Latte,1,ml,350,0.4,3.5,88.6,20,0
+1005,Flat White,1,ml,175,0.35,3.2,89.1,20,0
+1006,Mocha,1,ml,350,0.45,3.7,87.8,20,0
+1007,Macchiato,1,ml,80,0.25,2.7,90.7,20,0
+1008,Cortado,1,ml,120,0.3,2.9,89.7,20,0
+1009,Filter Coffee,1,ml,300,0.15,2.2,93.2,20,0
+1010,Hot Chocolate,1,ml,350,0.4,3.4,88.2,20,0
+1011,Chai Latte,1,ml,350,0.45,3.6,87.5,20,0
+1012,Matcha Latte,1,ml,350,0.65,4.1,84.1,20,0
+1013,Golden Turmeric Latte,1,ml,350,0.5,3.7,86.5,20,0
+1014,London Fog,1,ml,350,0.4,3.4,88.2,20,0
+1015,English Breakfast Tea,1,ml,300,0.1,2.1,95.2,20,0
+1016,Earl Grey Tea,1,ml,300,0.1,2.1,95.2,20,0
+1017,Green Tea,1,ml,300,0.12,2.2,94.5,20,0
+1018,Peppermint Herbal Tea,1,ml,300,0.12,2.2,94.5,20,0
+2001,Iced Americano,2,ml,350,0.25,2.7,90.7,20,1
+2002,Iced Latte,2,ml,350,0.45,3.8,88.2,20,1
+2003,Iced Mocha,2,ml,350,0.55,4.2,86.9,20,1
+2004,Cold Brew,2,ml,470,0.3,3.0,90.0,20,2
+2005,Nitro Cold Brew,2,ml,470,0.4,3.8,89.5,20,2
+2006,Coffee Frappe,2,ml,450,0.75,4.5,83.3,20,0
+2007,Iced Matcha Latte,2,ml,350,0.7,4.4,84.1,20,1
+2008,Iced Chai Latte,2,ml,350,0.5,3.9,87.2,20,1
+2009,Classic Iced Tea,2,ml,470,0.15,2.3,93.5,0,1
+2010,House-Made Lemonade,2,ml,470,0.2,2.7,92.6,0,1
+2011,Italian Soda,2,ml,350,0.25,2.9,91.4,20,1
+2012,Mixed-Berry Smoothie,2,ml,450,0.9,4.8,81.2,20,0
+3001,Butter Croissant,3,pcs,1,0.45,2.0,77.5,0,2
+3002,Almond Croissant,3,pcs,1,0.6,2.5,76.0,0,2
+3003,Pain au Chocolat,3,pcs,1,0.5,2.2,77.3,0,2
+3004,Blueberry Muffin,3,pcs,1,0.35,2.1,83.3,0,2
+3005,Cinnamon Roll,3,pcs,1,0.4,2.3,82.6,0,2
+3006,Glazed Donut,3,pcs,1,0.25,1.6,84.4,0,2
+3007,Fudge Brownie,3,pcs,1,0.45,2.6,82.7,0,5
+3008,Chocolate-Chip Cookie,3,pcs,1,0.3,1.8,83.3,0,7
+3009,Banana Bread Slice,3,pcs,1,0.35,2.1,83.3,0,3
+3010,New York Cheesecake,3,pcs,1,0.7,3.2,78.1,0,3
+4001,Ham & Cheese Croissant Sandwich,4,pcs,1,1.2,4.2,71.4,0,1
+4002,Chicken Caesar Wrap,4,pcs,1,1.4,4.8,70.8,0,1
+4003,Caprese Panini,4,pcs,1,1.25,4.6,72.8,0,1
+4004,Turkey & Swiss Sandwich,4,pcs,1,1.3,4.7,72.3,0,1
+4005,Vegan Hummus & Veggie Wrap,4,pcs,1,1.1,4.5,75.6,0,1
+4006,Bacon-Egg-Cheese Breakfast Sandwich,4,pcs,1,1.2,4.3,72.1,0,1
+5001,Whole-Bean Coffee 250g,5,g,250,3.5,9.5,63.2,0,365
+5002,House-Blend Ground Coffee 250g,5,g,250,3.2,8.5,62.4,0,365
+5003,Reusable Travel Mug,5,pcs,1,4.0,14.0,71.4,20,1825
+5004,Loose-Leaf Tea Tin 100g,5,g,100,2.2,6.5,66.2,0,540

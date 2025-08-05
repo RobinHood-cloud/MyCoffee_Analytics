@@ -1,0 +1,601 @@
+Review ID,Branch ID,Branch Name,Reviewer Name,Local Guide,Reviewer Reviews,Rating,Review Date,Review Text,Thumbs Up,Owner Response,Response Date
+RVW00001,B004,Notting Hill Roastery,Riley Allen,False,27,3,2025-03-06,"Their matcha latte is my new favourite. I enjoyed the pastries, though the coffee was a bit bitter. Limited plug sockets, bring a charged laptop.",2,"Hi Riley, sorry we missed the mark. We'll share your feedback with the team.",2025-03-06
+RVW00002,B001,Camden Market Café,Sam Young,False,24,3,2024-12-14,The flat white was spot on! Friendly barista but order got mixed up. The chai latte lacked flavour.,2,,
+RVW00003,B003,Southbank Riverside,Kris Hill,False,28,5,2024-06-11,Service was quick and friendly. Music was too loud for my taste. The chai latte lacked flavour.,1,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-06-11
+RVW00004,B006,Brixton Hub,Lee Lewis,False,27,5,2024-08-27,Outdoor seating is perfect on sunny days.,2,,
+RVW00005,B005,Greenwich Park Kiosk,Jess Garcia,False,16,5,2024-07-17,The staff remembered my name—nice touch!,1,,
+RVW00006,B002,Shoreditch Express,Chris King,True,29,4,2025-03-08,The staff remembered my name—nice touch!,0,"We’re glad you enjoyed your visit, Chris! —Team My Coffee",2025-03-11
+RVW00007,B001,Camden Market Café,Avery Jones,False,21,4,2025-03-25,Not impressed with the cleanliness this time. Found a seat easily even during rush hour.,1,,
+RVW00008,B002,Shoreditch Express,Jordan Singh,False,35,5,2024-11-14,Service was quick and friendly.,4,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-11-19
+RVW00009,B002,Shoreditch Express,Alex Lewis,False,22,5,2024-05-09,Queue moved faster than expected. Not impressed with the cleanliness this time.,3,,
+RVW00010,B003,Southbank Riverside,Cameron Patel,True,26,5,2024-02-13,"I enjoyed the pastries, though the coffee was a bit bitter. Music was too loud for my taste.",2,"Hi Cameron, sorry we missed the mark. We'll share your feedback with the team.",2024-02-15
+RVW00011,B001,Camden Market Café,Kris Jones,False,25,5,2024-03-17,Their matcha latte is my new favourite.,3,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-03-22
+RVW00012,B001,Camden Market Café,Jess Lee,True,25,2,2024-07-15,Queue moved faster than expected.,2,"We’re glad you enjoyed your visit, Jess! —Team My Coffee",2024-07-17
+RVW00013,B003,Southbank Riverside,Kris Hill,False,29,5,2024-05-20,The staff remembered my name—nice touch! Cosy spot to work with free Wi‑Fi. Found a seat easily even during rush hour.,2,"Appreciate the feedback, Kris. We'll work on improving.",2024-05-26
+RVW00014,B005,Greenwich Park Kiosk,Skyler Martin,False,26,5,2025-02-05,Great place to catch up with friends.,1,,
+RVW00015,B002,Shoreditch Express,Morgan Allen,True,18,5,2024-09-17,Service was quick and friendly. Prices are fair for London.,1,,
+RVW00016,B004,Notting Hill Roastery,Jamie Martin,False,24,4,2025-03-16,Nitro cold brew was fantastic.,5,"Appreciate the feedback, Jamie. We'll work on improving.",2025-03-19
+RVW00017,B006,Brixton Hub,Jordan Harris,False,27,4,2024-12-15,The flat white was spot on! Great place to catch up with friends.,0,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2024-12-15
+RVW00018,B001,Camden Market Café,Taylor Allen,False,27,5,2024-06-30,Not impressed with the cleanliness this time. The croissants are always fresh. Their matcha latte is my new favourite.,2,,
+RVW00019,B003,Southbank Riverside,Quinn Harris,False,25,3,2024-10-20,Prices are fair for London.,0,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2024-10-22
+RVW00020,B006,Brixton Hub,Alex Chen,False,35,5,2025-03-28,Music was too loud for my taste. The croissants are always fresh.,0,,
+RVW00021,B003,Southbank Riverside,Jess Walker,False,28,4,2025-02-08,Service was quick and friendly. The croissants are always fresh.,2,,
+RVW00022,B003,Southbank Riverside,Sam Jones,False,25,3,2024-01-05,Great coffee and lovely atmosphere. Found a seat easily even during rush hour. Great place to catch up with friends.,4,"Appreciate the feedback, Sam. We'll work on improving.",2024-01-05
+RVW00023,B006,Brixton Hub,Avery Lewis,False,28,5,2024-04-02,Nitro cold brew was fantastic. The flat white was spot on! Great place to catch up with friends.,2,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-04-07
+RVW00024,B005,Greenwich Park Kiosk,Robin Garcia,True,22,2,2024-04-05,Found a seat easily even during rush hour. Not impressed with the cleanliness this time.,1,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-04-10
+RVW00025,B005,Greenwich Park Kiosk,Taylor Allen,False,19,5,2024-04-15,Great place to catch up with friends.,1,"Appreciate the feedback, Taylor. We'll work on improving.",2024-04-18
+RVW00026,B002,Shoreditch Express,Kris Allen,False,26,5,2024-03-12,Great place to catch up with friends. Found a seat easily even during rush hour. Service was quick and friendly.,0,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-03-18
+RVW00027,B006,Brixton Hub,Jordan Johnson,True,28,4,2025-01-19,The staff remembered my name—nice touch! Loved the vegan options on the menu. The chai latte lacked flavour.,4,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2025-01-25
+RVW00028,B003,Southbank Riverside,Jordan Walker,False,33,1,2024-01-29,Queue moved faster than expected. Outdoor seating is perfect on sunny days.,1,,
+RVW00029,B005,Greenwich Park Kiosk,Kris King,False,24,3,2024-01-29,The croissants are always fresh.,1,,
+RVW00030,B002,Shoreditch Express,Jamie Brown,True,23,4,2024-02-28,The flat white was spot on!,0,"Thanks for the kind words, Jamie! Hope to see you again soon.",2024-03-06
+RVW00031,B003,Southbank Riverside,Jordan Smith,True,21,5,2024-01-27,Great place to catch up with friends.,1,,
+RVW00032,B004,Notting Hill Roastery,Kris Singh,True,25,4,2024-10-02,Prices are fair for London. Found a seat easily even during rush hour.,0,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-10-06
+RVW00033,B004,Notting Hill Roastery,Lee Patel,True,19,5,2024-08-23,Music was too loud for my taste. The croissants are always fresh.,3,"Appreciate the feedback, Lee. We'll work on improving.",2024-08-26
+RVW00034,B002,Shoreditch Express,Jess Johnson,False,22,5,2024-11-30,Loved the vegan options on the menu.,1,"Appreciate the feedback, Jess. We'll work on improving.",2024-12-07
+RVW00035,B006,Brixton Hub,Morgan Martin,True,22,3,2024-07-20,Prices are fair for London. Music was too loud for my taste. Nitro cold brew was fantastic.,1,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2024-07-24
+RVW00036,B004,Notting Hill Roastery,Taylor Clark,False,32,4,2024-08-06,The staff remembered my name—nice touch!,2,"We’re glad you enjoyed your visit, Taylor! —Team My Coffee",2024-08-13
+RVW00037,B001,Camden Market Café,Morgan Kim,False,28,5,2024-12-03,"Service was quick and friendly. I enjoyed the pastries, though the coffee was a bit bitter.",2,,
+RVW00038,B004,Notting Hill Roastery,Drew Clark,True,19,3,2024-04-22,Great coffee and lovely atmosphere.,3,"We’re glad you enjoyed your visit, Drew! —Team My Coffee",2024-04-25
+RVW00039,B006,Brixton Hub,Jamie Harris,False,32,5,2024-04-03,Music was too loud for my taste. Service was quick and friendly. Friendly barista but order got mixed up.,1,"Hi Jamie, sorry we missed the mark. We'll share your feedback with the team.",2024-04-08
+RVW00040,B002,Shoreditch Express,Kris Patel,True,27,4,2024-11-21,Nitro cold brew was fantastic. The croissants are always fresh.,5,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-11-27
+RVW00041,B003,Southbank Riverside,Chris Hill,True,31,5,2024-01-24,Prices are fair for London.,2,,
+RVW00042,B001,Camden Market Café,Kris Brown,False,22,3,2024-02-15,Service was quick and friendly. Great coffee and lovely atmosphere.,3,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-02-18
+RVW00043,B001,Camden Market Café,Alex Kim,False,28,4,2024-07-09,Cosy spot to work with free Wi‑Fi. Not impressed with the cleanliness this time.,4,,
+RVW00044,B006,Brixton Hub,Dana Hill,False,23,5,2024-05-21,Great coffee and lovely atmosphere. The staff remembered my name—nice touch!,2,,
+RVW00045,B001,Camden Market Café,Alex Hill,True,32,5,2024-08-25,Prices are fair for London. The chai latte lacked flavour. Music was too loud for my taste.,1,"Hi Alex, sorry we missed the mark. We'll share your feedback with the team.",2024-08-30
+RVW00046,B004,Notting Hill Roastery,Cameron Allen,False,33,5,2024-04-28,Found a seat easily even during rush hour. Friendly barista but order got mixed up.,0,"We’re glad you enjoyed your visit, Cameron! —Team My Coffee",2024-04-30
+RVW00047,B003,Southbank Riverside,Pat Brown,True,26,3,2025-01-06,Friendly barista but order got mixed up.,1,"We’re glad you enjoyed your visit, Pat! —Team My Coffee",2025-01-08
+RVW00048,B001,Camden Market Café,Avery Smith,False,29,4,2024-02-05,The staff remembered my name—nice touch! Loved the vegan options on the menu. Friendly barista but order got mixed up.,1,"We’re glad you enjoyed your visit, Avery! —Team My Coffee",2024-02-07
+RVW00049,B003,Southbank Riverside,Robin Walker,False,20,5,2024-10-12,Friendly barista but order got mixed up. Found a seat easily even during rush hour. The flat white was spot on!,1,"Thanks for the kind words, Robin! Hope to see you again soon.",2024-10-17
+RVW00050,B005,Greenwich Park Kiosk,Taylor Allen,True,26,5,2024-08-22,The chai latte lacked flavour. The flat white was spot on! Great coffee and lovely atmosphere.,1,,
+RVW00051,B001,Camden Market Café,Sam Young,True,29,5,2024-10-15,Their matcha latte is my new favourite. Outdoor seating is perfect on sunny days. Nitro cold brew was fantastic.,1,,
+RVW00052,B005,Greenwich Park Kiosk,Casey Brown,False,26,5,2024-07-15,Not impressed with the cleanliness this time.,0,"Hi Casey, sorry we missed the mark. We'll share your feedback with the team.",2024-07-21
+RVW00053,B006,Brixton Hub,Chris King,False,31,3,2024-08-14,Friendly barista but order got mixed up.,1,"Hi Chris, sorry we missed the mark. We'll share your feedback with the team.",2024-08-18
+RVW00054,B002,Shoreditch Express,Drew Chen,True,19,2,2024-04-19,Their matcha latte is my new favourite. Music was too loud for my taste.,2,"Hi Drew, sorry we missed the mark. We'll share your feedback with the team.",2024-04-23
+RVW00055,B005,Greenwich Park Kiosk,Jordan Lewis,True,23,5,2025-02-08,"Found a seat easily even during rush hour. The flat white was spot on! I enjoyed the pastries, though the coffee was a bit bitter.",1,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2025-02-08
+RVW00056,B001,Camden Market Café,Jess Walker,True,24,5,2024-04-08,Outdoor seating is perfect on sunny days. Not impressed with the cleanliness this time. Nitro cold brew was fantastic.,1,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-04-11
+RVW00057,B002,Shoreditch Express,Drew Wright,True,29,5,2024-05-24,"I enjoyed the pastries, though the coffee was a bit bitter. Music was too loud for my taste.",1,"Thanks for the kind words, Drew! Hope to see you again soon.",2024-05-25
+RVW00058,B001,Camden Market Café,Morgan Walker,False,34,4,2025-02-25,Found a seat easily even during rush hour.,0,"Hi Morgan, sorry we missed the mark. We'll share your feedback with the team.",2025-02-25
+RVW00059,B006,Brixton Hub,Drew Singh,False,24,1,2024-04-27,The staff remembered my name—nice touch! Found a seat easily even during rush hour. Great place to catch up with friends.,2,"Hi Drew, sorry we missed the mark. We'll share your feedback with the team.",2024-05-04
+RVW00060,B005,Greenwich Park Kiosk,Avery Kim,False,29,4,2024-12-27,"Queue moved faster than expected. I enjoyed the pastries, though the coffee was a bit bitter. Their matcha latte is my new favourite.",0,"Appreciate the feedback, Avery. We'll work on improving.",2024-12-31
+RVW00061,B004,Notting Hill Roastery,Robin Clark,True,21,3,2024-12-14,"Limited plug sockets, bring a charged laptop.",0,"Appreciate the feedback, Robin. We'll work on improving.",2024-12-20
+RVW00062,B002,Shoreditch Express,Quinn Martin,True,30,5,2024-07-01,"The chai latte lacked flavour. Limited plug sockets, bring a charged laptop.",0,"Hi Quinn, sorry we missed the mark. We'll share your feedback with the team.",2024-07-05
+RVW00063,B006,Brixton Hub,Quinn Harris,False,30,5,2024-07-06,Prices are fair for London. The flat white was spot on!,3,,
+RVW00064,B001,Camden Market Café,Alex Martin,True,26,5,2024-06-19,"I enjoyed the pastries, though the coffee was a bit bitter. Friendly barista but order got mixed up.",1,,
+RVW00065,B006,Brixton Hub,Jamie Chen,False,20,5,2024-09-09,Great place to catch up with friends. Found a seat easily even during rush hour. Nitro cold brew was fantastic.,7,"We’re glad you enjoyed your visit, Jamie! —Team My Coffee",2024-09-10
+RVW00066,B002,Shoreditch Express,Skyler Lewis,True,28,5,2024-10-19,Music was too loud for my taste.,1,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-10-22
+RVW00067,B002,Shoreditch Express,Robin Hill,True,22,2,2024-08-16,"Friendly barista but order got mixed up. I enjoyed the pastries, though the coffee was a bit bitter.",2,,
+RVW00068,B003,Southbank Riverside,Pat Harris,False,27,2,2024-04-15,Friendly barista but order got mixed up.,2,"Hi Pat, sorry we missed the mark. We'll share your feedback with the team.",2024-04-16
+RVW00069,B004,Notting Hill Roastery,Jordan Clark,False,20,5,2024-05-03,Not impressed with the cleanliness this time. Prices are fair for London.,1,"Thanks for the kind words, Jordan! Hope to see you again soon.",2024-05-07
+RVW00070,B003,Southbank Riverside,Casey Walker,False,22,5,2024-02-23,"Cosy spot to work with free Wi‑Fi. Limited plug sockets, bring a charged laptop.",3,"Thanks for the kind words, Casey! Hope to see you again soon.",2024-02-28
+RVW00071,B002,Shoreditch Express,Dana Lee,False,32,4,2025-01-13,"Limited plug sockets, bring a charged laptop. Nitro cold brew was fantastic.",0,,
+RVW00072,B001,Camden Market Café,Dana Lewis,False,22,5,2025-01-20,Their matcha latte is my new favourite. Not impressed with the cleanliness this time.,0,,
+RVW00073,B001,Camden Market Café,Casey Kim,False,20,4,2024-12-04,The croissants are always fresh.,1,,
+RVW00074,B002,Shoreditch Express,Skyler Patel,False,39,3,2024-11-25,"Limited plug sockets, bring a charged laptop.",0,,
+RVW00075,B006,Brixton Hub,Jamie Harris,False,30,5,2024-05-08,Not impressed with the cleanliness this time.,2,,
+RVW00076,B004,Notting Hill Roastery,Cameron Singh,True,29,3,2024-08-10,Service was quick and friendly.,5,"We’re glad you enjoyed your visit, Cameron! —Team My Coffee",2024-08-15
+RVW00077,B001,Camden Market Café,Lee Lewis,True,27,5,2024-11-11,Friendly barista but order got mixed up.,0,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-11-16
+RVW00078,B005,Greenwich Park Kiosk,Drew Martin,True,35,5,2024-08-31,Cosy spot to work with free Wi‑Fi. Great coffee and lovely atmosphere. The croissants are always fresh.,2,,
+RVW00079,B005,Greenwich Park Kiosk,Cameron Lewis,False,17,5,2024-10-04,The staff remembered my name—nice touch!,2,,
+RVW00080,B001,Camden Market Café,Jordan Smith,False,27,1,2024-04-10,The flat white was spot on! Friendly barista but order got mixed up.,3,,
+RVW00081,B003,Southbank Riverside,Riley Harris,False,37,5,2024-06-17,Friendly barista but order got mixed up. The chai latte lacked flavour.,1,,
+RVW00082,B001,Camden Market Café,Jess Harris,False,33,1,2024-01-12,Not impressed with the cleanliness this time.,2,,
+RVW00083,B003,Southbank Riverside,Robin Harris,True,27,4,2024-05-23,Prices are fair for London. The croissants are always fresh. The flat white was spot on!,3,,
+RVW00084,B002,Shoreditch Express,Quinn Harris,False,28,2,2024-10-06,Friendly barista but order got mixed up.,0,,
+RVW00085,B006,Brixton Hub,Jordan Chen,False,34,5,2025-02-20,Service was quick and friendly.,1,,
+RVW00086,B002,Shoreditch Express,Sam Smith,False,15,3,2024-09-12,The chai latte lacked flavour.,1,,
+RVW00087,B003,Southbank Riverside,Casey Clark,True,28,5,2024-08-07,The flat white was spot on!,0,"Hi Casey, sorry we missed the mark. We'll share your feedback with the team.",2024-08-07
+RVW00088,B002,Shoreditch Express,Pat Young,False,30,4,2024-07-17,Outdoor seating is perfect on sunny days. Not impressed with the cleanliness this time.,1,,
+RVW00089,B002,Shoreditch Express,Cameron King,True,31,3,2024-02-10,"Prices are fair for London. I enjoyed the pastries, though the coffee was a bit bitter.",4,,
+RVW00090,B006,Brixton Hub,Pat Walker,True,22,5,2024-09-14,The croissants are always fresh. Queue moved faster than expected. Service was quick and friendly.,0,"Thanks for the kind words, Pat! Hope to see you again soon.",2024-09-21
+RVW00091,B004,Notting Hill Roastery,Jamie Wright,False,23,5,2025-02-12,Loved the vegan options on the menu. Music was too loud for my taste. Cosy spot to work with free Wi‑Fi.,1,"Thanks for the kind words, Jamie! Hope to see you again soon.",2025-02-12
+RVW00092,B002,Shoreditch Express,Alex Lewis,False,21,2,2024-05-05,Loved the vegan options on the menu. Outdoor seating is perfect on sunny days.,3,,
+RVW00093,B003,Southbank Riverside,Skyler Singh,True,20,5,2024-04-05,The croissants are always fresh. The chai latte lacked flavour.,0,,
+RVW00094,B005,Greenwich Park Kiosk,Jamie Lee,False,18,5,2024-06-24,"The croissants are always fresh. Limited plug sockets, bring a charged laptop. The flat white was spot on!",0,"Appreciate the feedback, Jamie. We'll work on improving.",2024-06-28
+RVW00095,B005,Greenwich Park Kiosk,Robin Jones,False,22,5,2024-11-16,Outdoor seating is perfect on sunny days. The staff remembered my name—nice touch!,3,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-11-22
+RVW00096,B003,Southbank Riverside,Drew Jones,False,24,3,2024-05-20,Service was quick and friendly.,1,,
+RVW00097,B003,Southbank Riverside,Riley Singh,False,24,4,2024-09-16,Loved the vegan options on the menu.,1,"Thanks for the kind words, Riley! Hope to see you again soon.",2024-09-23
+RVW00098,B001,Camden Market Café,Avery Chen,False,30,4,2024-11-23,Outdoor seating is perfect on sunny days. The chai latte lacked flavour.,4,"Appreciate the feedback, Avery. We'll work on improving.",2024-11-25
+RVW00099,B001,Camden Market Café,Cameron Jones,True,30,1,2024-06-21,"Loved the vegan options on the menu. I enjoyed the pastries, though the coffee was a bit bitter.",0,"Appreciate the feedback, Cameron. We'll work on improving.",2024-06-24
+RVW00100,B002,Shoreditch Express,Jamie Brown,True,20,4,2024-12-24,Great coffee and lovely atmosphere. Prices are fair for London. Their matcha latte is my new favourite.,1,,
+RVW00101,B002,Shoreditch Express,Drew Walker,False,18,4,2025-01-18,The chai latte lacked flavour.,3,"Thanks for the kind words, Drew! Hope to see you again soon.",2025-01-18
+RVW00102,B003,Southbank Riverside,Sam Lee,False,33,5,2024-01-01,Nitro cold brew was fantastic. Music was too loud for my taste. The flat white was spot on!,2,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-01-04
+RVW00103,B004,Notting Hill Roastery,Drew Hill,False,30,5,2024-09-21,The croissants are always fresh. Loved the vegan options on the menu.,2,"Hi Drew, sorry we missed the mark. We'll share your feedback with the team.",2024-09-22
+RVW00104,B006,Brixton Hub,Chris Garcia,False,22,4,2025-02-25,Their matcha latte is my new favourite.,2,"Thanks for the kind words, Chris! Hope to see you again soon.",2025-02-27
+RVW00105,B001,Camden Market Café,Drew Lee,False,22,4,2024-05-19,Friendly barista but order got mixed up.,1,,
+RVW00106,B003,Southbank Riverside,Taylor Johnson,False,22,4,2025-02-27,Great place to catch up with friends. Friendly barista but order got mixed up.,0,"We’re glad you enjoyed your visit, Taylor! —Team My Coffee",2025-02-28
+RVW00107,B005,Greenwich Park Kiosk,Jess Harris,True,28,5,2024-10-31,The croissants are always fresh. Friendly barista but order got mixed up.,2,"Appreciate the feedback, Jess. We'll work on improving.",2024-11-01
+RVW00108,B006,Brixton Hub,Riley Martin,False,22,5,2024-03-13,Cosy spot to work with free Wi‑Fi. Queue moved faster than expected.,1,"We’re glad you enjoyed your visit, Riley! —Team My Coffee",2024-03-14
+RVW00109,B003,Southbank Riverside,Pat Lewis,False,23,5,2024-07-15,"I enjoyed the pastries, though the coffee was a bit bitter. The staff remembered my name—nice touch!",4,,
+RVW00110,B004,Notting Hill Roastery,Robin Wright,True,27,4,2024-04-17,The chai latte lacked flavour. Outdoor seating is perfect on sunny days. The staff remembered my name—nice touch!,3,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-04-20
+RVW00111,B001,Camden Market Café,Robin Walker,True,24,4,2024-03-07,Great place to catch up with friends.,1,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-03-13
+RVW00112,B003,Southbank Riverside,Skyler Brown,False,30,5,2024-04-05,Their matcha latte is my new favourite. The croissants are always fresh. Service was quick and friendly.,1,,
+RVW00113,B003,Southbank Riverside,Lee Smith,True,23,4,2024-04-16,Queue moved faster than expected.,0,,
+RVW00114,B005,Greenwich Park Kiosk,Skyler Young,True,25,5,2024-12-15,Queue moved faster than expected.,0,,
+RVW00115,B004,Notting Hill Roastery,Chris Singh,False,22,5,2024-10-17,Cosy spot to work with free Wi‑Fi. Nitro cold brew was fantastic.,1,"Thanks for the kind words, Chris! Hope to see you again soon.",2024-10-17
+RVW00116,B002,Shoreditch Express,Casey Chen,False,29,4,2024-01-06,Great place to catch up with friends. Nitro cold brew was fantastic. Found a seat easily even during rush hour.,1,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2024-01-09
+RVW00117,B001,Camden Market Café,Jamie King,False,29,5,2024-01-24,"Music was too loud for my taste. Friendly barista but order got mixed up. I enjoyed the pastries, though the coffee was a bit bitter.",3,"Appreciate the feedback, Jamie. We'll work on improving.",2024-01-30
+RVW00118,B005,Greenwich Park Kiosk,Riley Hill,False,25,5,2024-04-16,Great place to catch up with friends.,0,"Appreciate the feedback, Riley. We'll work on improving.",2024-04-20
+RVW00119,B001,Camden Market Café,Sam Allen,True,21,4,2024-11-26,Great place to catch up with friends. Queue moved faster than expected. The flat white was spot on!,0,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-11-28
+RVW00120,B002,Shoreditch Express,Sam Allen,True,35,4,2024-01-26,The chai latte lacked flavour. Service was quick and friendly. Their matcha latte is my new favourite.,2,,
+RVW00121,B003,Southbank Riverside,Dana Smith,False,30,5,2024-08-23,Outdoor seating is perfect on sunny days.,3,"Thanks for the kind words, Dana! Hope to see you again soon.",2024-08-27
+RVW00122,B006,Brixton Hub,Robin Patel,False,30,3,2025-02-06,Great coffee and lovely atmosphere.,2,"Appreciate the feedback, Robin. We'll work on improving.",2025-02-12
+RVW00123,B004,Notting Hill Roastery,Quinn Martin,False,39,4,2024-08-03,Their matcha latte is my new favourite. Service was quick and friendly.,1,,
+RVW00124,B006,Brixton Hub,Jamie Brown,False,23,4,2024-04-20,"Not impressed with the cleanliness this time. I enjoyed the pastries, though the coffee was a bit bitter. Cosy spot to work with free Wi‑Fi.",1,,
+RVW00125,B003,Southbank Riverside,Avery Young,False,25,3,2025-01-03,Great coffee and lovely atmosphere. Not impressed with the cleanliness this time. The flat white was spot on!,2,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2025-01-07
+RVW00126,B002,Shoreditch Express,Alex Harris,False,23,5,2024-11-10,Prices are fair for London. Loved the vegan options on the menu.,3,"Thanks for the kind words, Alex! Hope to see you again soon.",2024-11-15
+RVW00127,B005,Greenwich Park Kiosk,Avery Lewis,False,23,5,2024-07-25,"I enjoyed the pastries, though the coffee was a bit bitter. Outdoor seating is perfect on sunny days. Nitro cold brew was fantastic.",0,"Thanks for the kind words, Avery! Hope to see you again soon.",2024-07-31
+RVW00128,B002,Shoreditch Express,Drew Johnson,False,30,5,2025-02-18,"Nitro cold brew was fantastic. I enjoyed the pastries, though the coffee was a bit bitter.",3,,
+RVW00129,B002,Shoreditch Express,Jordan Johnson,False,19,5,2024-04-13,"Limited plug sockets, bring a charged laptop. Nitro cold brew was fantastic.",3,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-04-15
+RVW00130,B002,Shoreditch Express,Skyler Kim,False,21,5,2024-05-15,"I enjoyed the pastries, though the coffee was a bit bitter. Queue moved faster than expected. The staff remembered my name—nice touch!",0,,
+RVW00131,B001,Camden Market Café,Lee Lee,False,32,3,2024-09-25,Prices are fair for London. Cosy spot to work with free Wi‑Fi.,0,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-10-02
+RVW00132,B003,Southbank Riverside,Drew Harris,False,31,5,2024-07-22,Service was quick and friendly. Music was too loud for my taste. Loved the vegan options on the menu.,4,,
+RVW00133,B003,Southbank Riverside,Morgan Wright,True,19,2,2025-03-09,"I enjoyed the pastries, though the coffee was a bit bitter. Service was quick and friendly.",2,"Thanks for the kind words, Morgan! Hope to see you again soon.",2025-03-15
+RVW00134,B003,Southbank Riverside,Jordan Chen,False,23,4,2024-02-24,Great place to catch up with friends. Found a seat easily even during rush hour.,3,,
+RVW00135,B005,Greenwich Park Kiosk,Casey Young,False,25,5,2024-11-02,The flat white was spot on! The croissants are always fresh.,1,"Hi Casey, sorry we missed the mark. We'll share your feedback with the team.",2024-11-07
+RVW00136,B005,Greenwich Park Kiosk,Pat Walker,False,23,5,2024-03-13,The flat white was spot on! Outdoor seating is perfect on sunny days.,5,"Hi Pat, sorry we missed the mark. We'll share your feedback with the team.",2024-03-14
+RVW00137,B002,Shoreditch Express,Dana Patel,False,27,4,2024-12-28,Their matcha latte is my new favourite. Found a seat easily even during rush hour.,1,"We’re glad you enjoyed your visit, Dana! —Team My Coffee",2025-01-03
+RVW00138,B001,Camden Market Café,Sam Singh,False,22,5,2024-06-06,Loved the vegan options on the menu. Found a seat easily even during rush hour.,1,"Hi Sam, sorry we missed the mark. We'll share your feedback with the team.",2024-06-11
+RVW00139,B005,Greenwich Park Kiosk,Kris Clark,True,26,4,2024-01-08,Cosy spot to work with free Wi‑Fi. Nitro cold brew was fantastic. The staff remembered my name—nice touch!,1,,
+RVW00140,B001,Camden Market Café,Jess Chen,False,26,1,2024-06-01,"Queue moved faster than expected. Great coffee and lovely atmosphere. Limited plug sockets, bring a charged laptop.",1,,
+RVW00141,B005,Greenwich Park Kiosk,Quinn Kim,False,31,5,2024-04-11,The croissants are always fresh. Service was quick and friendly.,0,,
+RVW00142,B004,Notting Hill Roastery,Jordan Hill,True,28,5,2024-04-21,Outdoor seating is perfect on sunny days.,2,"Thanks for the kind words, Jordan! Hope to see you again soon.",2024-04-27
+RVW00143,B002,Shoreditch Express,Chris Johnson,False,35,5,2024-09-06,Outdoor seating is perfect on sunny days.,3,,
+RVW00144,B001,Camden Market Café,Quinn Kim,False,25,4,2025-02-11,The staff remembered my name—nice touch!,0,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2025-02-16
+RVW00145,B005,Greenwich Park Kiosk,Dana Harris,True,26,5,2024-09-13,"Not impressed with the cleanliness this time. Service was quick and friendly. I enjoyed the pastries, though the coffee was a bit bitter.",4,"Appreciate the feedback, Dana. We'll work on improving.",2024-09-13
+RVW00146,B003,Southbank Riverside,Robin Young,False,22,5,2024-11-10,"Queue moved faster than expected. Limited plug sockets, bring a charged laptop.",1,,
+RVW00147,B001,Camden Market Café,Riley Kim,False,35,5,2025-02-16,Nitro cold brew was fantastic.,3,"Appreciate the feedback, Riley. We'll work on improving.",2025-02-19
+RVW00148,B004,Notting Hill Roastery,Jess Hill,True,19,2,2024-02-19,Prices are fair for London. The chai latte lacked flavour. Loved the vegan options on the menu.,3,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2024-02-19
+RVW00149,B005,Greenwich Park Kiosk,Chris Patel,False,33,5,2024-11-18,Music was too loud for my taste. The croissants are always fresh.,2,"Hi Chris, sorry we missed the mark. We'll share your feedback with the team.",2024-11-20
+RVW00150,B001,Camden Market Café,Dana Johnson,False,21,4,2024-01-12,The croissants are always fresh. Nitro cold brew was fantastic.,0,"We’re glad you enjoyed your visit, Dana! —Team My Coffee",2024-01-19
+RVW00151,B005,Greenwich Park Kiosk,Riley Allen,False,28,5,2024-02-17,Found a seat easily even during rush hour.,0,,
+RVW00152,B006,Brixton Hub,Morgan Lewis,False,28,3,2024-03-03,Prices are fair for London. Found a seat easily even during rush hour. Cosy spot to work with free Wi‑Fi.,1,,
+RVW00153,B006,Brixton Hub,Jordan Garcia,False,35,4,2024-11-15,The flat white was spot on! Outdoor seating is perfect on sunny days.,1,,
+RVW00154,B003,Southbank Riverside,Kris Allen,False,31,5,2024-02-29,The chai latte lacked flavour. Service was quick and friendly.,1,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-03-03
+RVW00155,B005,Greenwich Park Kiosk,Robin Hill,False,21,5,2024-01-23,Music was too loud for my taste.,2,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-01-25
+RVW00156,B004,Notting Hill Roastery,Pat Johnson,True,27,5,2025-02-06,Not impressed with the cleanliness this time. Music was too loud for my taste.,1,,
+RVW00157,B002,Shoreditch Express,Lee Chen,False,24,5,2025-02-15,Great coffee and lovely atmosphere. Friendly barista but order got mixed up. The chai latte lacked flavour.,0,,
+RVW00158,B001,Camden Market Café,Dana Patel,False,24,5,2024-03-26,The chai latte lacked flavour.,2,"Appreciate the feedback, Dana. We'll work on improving.",2024-03-26
+RVW00159,B005,Greenwich Park Kiosk,Jordan Lewis,False,22,4,2024-08-09,Queue moved faster than expected. Friendly barista but order got mixed up.,0,,
+RVW00160,B004,Notting Hill Roastery,Lee Harris,False,25,5,2024-04-08,Their matcha latte is my new favourite.,1,"Appreciate the feedback, Lee. We'll work on improving.",2024-04-15
+RVW00161,B003,Southbank Riverside,Chris Lee,False,24,5,2025-02-06,"Great place to catch up with friends. Loved the vegan options on the menu. Limited plug sockets, bring a charged laptop.",4,,
+RVW00162,B005,Greenwich Park Kiosk,Casey Harris,False,32,4,2024-04-09,Music was too loud for my taste. Not impressed with the cleanliness this time.,0,,
+RVW00163,B004,Notting Hill Roastery,Skyler Chen,False,26,5,2024-01-26,Service was quick and friendly.,0,"Appreciate the feedback, Skyler. We'll work on improving.",2024-01-26
+RVW00164,B003,Southbank Riverside,Sam Clark,True,23,5,2024-10-05,Music was too loud for my taste. Service was quick and friendly.,1,,
+RVW00165,B006,Brixton Hub,Drew Clark,True,24,5,2024-09-08,Great coffee and lovely atmosphere. Service was quick and friendly. Not impressed with the cleanliness this time.,3,,
+RVW00166,B001,Camden Market Café,Jess Young,True,23,4,2024-12-30,Not impressed with the cleanliness this time. Loved the vegan options on the menu.,2,"Appreciate the feedback, Jess. We'll work on improving.",2025-01-06
+RVW00167,B003,Southbank Riverside,Skyler Lee,False,33,3,2024-02-18,The chai latte lacked flavour.,2,,
+RVW00168,B006,Brixton Hub,Jess Johnson,True,28,3,2025-01-06,Their matcha latte is my new favourite.,2,"Thanks for the kind words, Jess! Hope to see you again soon.",2025-01-11
+RVW00169,B004,Notting Hill Roastery,Drew Singh,True,20,2,2024-08-12,Cosy spot to work with free Wi‑Fi.,0,"Appreciate the feedback, Drew. We'll work on improving.",2024-08-16
+RVW00170,B006,Brixton Hub,Pat Walker,False,37,2,2024-11-28,Loved the vegan options on the menu.,2,"Thanks for the kind words, Pat! Hope to see you again soon.",2024-12-05
+RVW00171,B003,Southbank Riverside,Chris Johnson,True,27,4,2024-01-31,Great coffee and lovely atmosphere. Cosy spot to work with free Wi‑Fi.,3,"Hi Chris, sorry we missed the mark. We'll share your feedback with the team.",2024-02-01
+RVW00172,B001,Camden Market Café,Avery Chen,False,25,3,2024-12-27,Outdoor seating is perfect on sunny days.,2,,
+RVW00173,B003,Southbank Riverside,Jordan Kim,False,32,4,2024-04-19,Prices are fair for London. The chai latte lacked flavour.,5,"Appreciate the feedback, Jordan. We'll work on improving.",2024-04-25
+RVW00174,B006,Brixton Hub,Skyler Allen,False,26,5,2024-11-12,Their matcha latte is my new favourite. The flat white was spot on! Music was too loud for my taste.,2,,
+RVW00175,B002,Shoreditch Express,Alex Clark,False,22,5,2024-03-25,"The croissants are always fresh. Limited plug sockets, bring a charged laptop. Great place to catch up with friends.",1,"We’re glad you enjoyed your visit, Alex! —Team My Coffee",2024-03-30
+RVW00176,B005,Greenwich Park Kiosk,Jordan Allen,False,20,2,2025-03-22,Music was too loud for my taste. Nitro cold brew was fantastic.,1,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2025-03-29
+RVW00177,B003,Southbank Riverside,Robin Martin,False,21,5,2024-02-14,"Limited plug sockets, bring a charged laptop. Friendly barista but order got mixed up. Found a seat easily even during rush hour.",0,"Thanks for the kind words, Robin! Hope to see you again soon.",2024-02-15
+RVW00178,B003,Southbank Riverside,Jordan Martin,True,32,2,2024-05-31,"The staff remembered my name—nice touch! Limited plug sockets, bring a charged laptop. Service was quick and friendly.",0,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2024-06-01
+RVW00179,B001,Camden Market Café,Robin Walker,True,22,4,2025-01-14,Great place to catch up with friends.,3,,
+RVW00180,B004,Notting Hill Roastery,Casey Harris,False,27,4,2024-09-24,Cosy spot to work with free Wi‑Fi. Great coffee and lovely atmosphere.,1,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2024-09-25
+RVW00181,B003,Southbank Riverside,Cameron Brown,True,26,5,2024-08-01,"Queue moved faster than expected. Limited plug sockets, bring a charged laptop.",1,"Appreciate the feedback, Cameron. We'll work on improving.",2024-08-05
+RVW00182,B002,Shoreditch Express,Robin Lee,False,27,1,2024-03-04,Cosy spot to work with free Wi‑Fi.,0,"Appreciate the feedback, Robin. We'll work on improving.",2024-03-08
+RVW00183,B002,Shoreditch Express,Kris Johnson,False,26,5,2024-08-07,"I enjoyed the pastries, though the coffee was a bit bitter. Friendly barista but order got mixed up. Prices are fair for London.",1,,
+RVW00184,B004,Notting Hill Roastery,Dana Smith,False,26,3,2024-04-16,Not impressed with the cleanliness this time. The croissants are always fresh.,5,"Appreciate the feedback, Dana. We'll work on improving.",2024-04-21
+RVW00185,B002,Shoreditch Express,Morgan Smith,False,25,5,2024-04-12,"The chai latte lacked flavour. I enjoyed the pastries, though the coffee was a bit bitter.",1,"Appreciate the feedback, Morgan. We'll work on improving.",2024-04-19
+RVW00186,B001,Camden Market Café,Avery Lee,False,19,4,2024-11-09,Queue moved faster than expected.,2,"Thanks for the kind words, Avery! Hope to see you again soon.",2024-11-10
+RVW00187,B005,Greenwich Park Kiosk,Robin King,False,34,5,2025-03-15,Cosy spot to work with free Wi‑Fi. The flat white was spot on! Not impressed with the cleanliness this time.,2,,
+RVW00188,B003,Southbank Riverside,Jordan Harris,False,25,1,2024-05-03,The croissants are always fresh. Prices are fair for London. Queue moved faster than expected.,3,,
+RVW00189,B005,Greenwich Park Kiosk,Jess Garcia,False,21,5,2025-04-01,"Prices are fair for London. I enjoyed the pastries, though the coffee was a bit bitter.",3,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2025-04-01
+RVW00190,B004,Notting Hill Roastery,Kris Walker,False,30,4,2024-11-07,"Limited plug sockets, bring a charged laptop. Queue moved faster than expected. Music was too loud for my taste.",3,"Appreciate the feedback, Kris. We'll work on improving.",2024-11-14
+RVW00191,B001,Camden Market Café,Sam Young,True,33,5,2024-11-09,Their matcha latte is my new favourite.,2,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-11-14
+RVW00192,B006,Brixton Hub,Morgan Kim,False,16,5,2024-08-25,Loved the vegan options on the menu. Nitro cold brew was fantastic.,0,,
+RVW00193,B003,Southbank Riverside,Riley Singh,False,30,4,2024-04-24,Friendly barista but order got mixed up. The croissants are always fresh. Queue moved faster than expected.,1,"Hi Riley, sorry we missed the mark. We'll share your feedback with the team.",2024-04-26
+RVW00194,B006,Brixton Hub,Jess Martin,False,26,4,2024-04-12,The flat white was spot on!,2,,
+RVW00195,B001,Camden Market Café,Alex Wright,False,29,5,2024-05-09,Friendly barista but order got mixed up. The croissants are always fresh. Cosy spot to work with free Wi‑Fi.,4,,
+RVW00196,B001,Camden Market Café,Sam Lewis,False,31,5,2025-02-08,Cosy spot to work with free Wi‑Fi. The staff remembered my name—nice touch!,2,"Appreciate the feedback, Sam. We'll work on improving.",2025-02-09
+RVW00197,B003,Southbank Riverside,Morgan Jones,False,34,5,2024-11-19,Prices are fair for London.,3,,
+RVW00198,B001,Camden Market Café,Morgan Lewis,False,26,5,2024-02-04,Their matcha latte is my new favourite.,4,"Hi Morgan, sorry we missed the mark. We'll share your feedback with the team.",2024-02-07
+RVW00199,B003,Southbank Riverside,Skyler Johnson,True,31,5,2024-02-04,Service was quick and friendly.,0,"Thanks for the kind words, Skyler! Hope to see you again soon.",2024-02-07
+RVW00200,B002,Shoreditch Express,Lee Jones,False,31,4,2024-07-16,The chai latte lacked flavour. The croissants are always fresh.,2,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-07-17
+RVW00201,B005,Greenwich Park Kiosk,Jamie Hill,False,28,5,2024-12-14,Music was too loud for my taste. Cosy spot to work with free Wi‑Fi. Not impressed with the cleanliness this time.,1,,
+RVW00202,B001,Camden Market Café,Quinn Lewis,True,31,5,2024-01-15,The staff remembered my name—nice touch! The flat white was spot on!,1,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-01-18
+RVW00203,B003,Southbank Riverside,Riley Lewis,False,24,5,2024-10-11,The staff remembered my name—nice touch!,4,"We’re glad you enjoyed your visit, Riley! —Team My Coffee",2024-10-12
+RVW00204,B005,Greenwich Park Kiosk,Kris Patel,True,27,4,2024-09-13,Great place to catch up with friends.,0,,
+RVW00205,B004,Notting Hill Roastery,Kris Lewis,False,31,5,2024-04-22,The croissants are always fresh.,2,,
+RVW00206,B002,Shoreditch Express,Avery Patel,False,20,4,2024-04-17,"I enjoyed the pastries, though the coffee was a bit bitter. Not impressed with the cleanliness this time.",2,,
+RVW00207,B005,Greenwich Park Kiosk,Pat Singh,True,27,5,2024-04-03,Queue moved faster than expected.,1,"We’re glad you enjoyed your visit, Pat! —Team My Coffee",2024-04-06
+RVW00208,B005,Greenwich Park Kiosk,Quinn Wright,True,26,5,2024-11-26,Great place to catch up with friends.,2,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-11-27
+RVW00209,B006,Brixton Hub,Cameron King,True,23,5,2024-04-14,Great coffee and lovely atmosphere. Found a seat easily even during rush hour. Loved the vegan options on the menu.,2,"Thanks for the kind words, Cameron! Hope to see you again soon.",2024-04-21
+RVW00210,B002,Shoreditch Express,Skyler Chen,True,33,4,2025-03-10,Loved the vegan options on the menu.,2,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2025-03-17
+RVW00211,B002,Shoreditch Express,Chris Clark,True,29,4,2024-06-06,Prices are fair for London. Music was too loud for my taste.,0,,
+RVW00212,B006,Brixton Hub,Casey Lee,False,29,3,2024-10-17,"Outdoor seating is perfect on sunny days. Limited plug sockets, bring a charged laptop.",0,,
+RVW00213,B004,Notting Hill Roastery,Alex Harris,True,32,1,2024-01-31,Prices are fair for London.,0,"Appreciate the feedback, Alex. We'll work on improving.",2024-02-03
+RVW00214,B005,Greenwich Park Kiosk,Jamie Walker,True,24,3,2024-05-06,Outdoor seating is perfect on sunny days.,2,"Appreciate the feedback, Jamie. We'll work on improving.",2024-05-07
+RVW00215,B002,Shoreditch Express,Cameron Smith,False,29,5,2024-05-21,The chai latte lacked flavour. Their matcha latte is my new favourite. Queue moved faster than expected.,2,"We’re glad you enjoyed your visit, Cameron! —Team My Coffee",2024-05-26
+RVW00216,B001,Camden Market Café,Jamie Lee,True,27,5,2024-10-04,The croissants are always fresh. Service was quick and friendly.,0,,
+RVW00217,B006,Brixton Hub,Jordan Clark,False,34,5,2024-08-13,Music was too loud for my taste. Nitro cold brew was fantastic. Loved the vegan options on the menu.,2,"Thanks for the kind words, Jordan! Hope to see you again soon.",2024-08-13
+RVW00218,B002,Shoreditch Express,Skyler Young,False,19,4,2025-03-25,Friendly barista but order got mixed up. Outdoor seating is perfect on sunny days.,2,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2025-04-01
+RVW00219,B001,Camden Market Café,Dana King,True,24,5,2024-03-22,"Limited plug sockets, bring a charged laptop. The croissants are always fresh. Prices are fair for London.",2,,
+RVW00220,B002,Shoreditch Express,Skyler Clark,False,23,4,2024-05-09,The staff remembered my name—nice touch! Loved the vegan options on the menu.,3,,
+RVW00221,B002,Shoreditch Express,Alex Lee,False,26,5,2024-05-05,"Limited plug sockets, bring a charged laptop.",0,,
+RVW00222,B006,Brixton Hub,Quinn Walker,True,27,2,2024-05-26,Their matcha latte is my new favourite.,1,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-05-29
+RVW00223,B001,Camden Market Café,Cameron Brown,False,21,4,2025-03-11,Friendly barista but order got mixed up. The croissants are always fresh.,2,,
+RVW00224,B006,Brixton Hub,Sam Harris,True,32,3,2024-01-09,Their matcha latte is my new favourite. Cosy spot to work with free Wi‑Fi. The croissants are always fresh.,2,"Appreciate the feedback, Sam. We'll work on improving.",2024-01-10
+RVW00225,B006,Brixton Hub,Skyler Smith,False,28,5,2024-07-05,The flat white was spot on! Not impressed with the cleanliness this time.,2,,
+RVW00226,B002,Shoreditch Express,Drew Chen,False,27,5,2024-04-03,Cosy spot to work with free Wi‑Fi.,1,"Appreciate the feedback, Drew. We'll work on improving.",2024-04-06
+RVW00227,B001,Camden Market Café,Skyler Lewis,True,22,5,2025-03-08,Queue moved faster than expected. Great coffee and lovely atmosphere.,3,"Appreciate the feedback, Skyler. We'll work on improving.",2025-03-10
+RVW00228,B005,Greenwich Park Kiosk,Cameron Singh,False,19,5,2024-06-13,The flat white was spot on! The croissants are always fresh. Great coffee and lovely atmosphere.,2,"Thanks for the kind words, Cameron! Hope to see you again soon.",2024-06-15
+RVW00229,B006,Brixton Hub,Taylor Smith,False,27,4,2024-03-03,"Great place to catch up with friends. Their matcha latte is my new favourite. Limited plug sockets, bring a charged laptop.",1,"Hi Taylor, sorry we missed the mark. We'll share your feedback with the team.",2024-03-10
+RVW00230,B006,Brixton Hub,Jess Chen,True,25,5,2024-10-30,"Limited plug sockets, bring a charged laptop.",0,"We’re glad you enjoyed your visit, Jess! —Team My Coffee",2024-10-31
+RVW00231,B003,Southbank Riverside,Taylor Chen,True,23,5,2024-04-12,Cosy spot to work with free Wi‑Fi. Outdoor seating is perfect on sunny days. Loved the vegan options on the menu.,1,"Hi Taylor, sorry we missed the mark. We'll share your feedback with the team.",2024-04-15
+RVW00232,B002,Shoreditch Express,Sam Martin,False,21,4,2025-02-21,Cosy spot to work with free Wi‑Fi.,2,,
+RVW00233,B002,Shoreditch Express,Dana Walker,False,26,3,2025-04-01,"Found a seat easily even during rush hour. Great place to catch up with friends. I enjoyed the pastries, though the coffee was a bit bitter.",1,"Thanks for the kind words, Dana! Hope to see you again soon.",2025-04-05
+RVW00234,B001,Camden Market Café,Quinn Young,False,26,5,2024-04-13,Great coffee and lovely atmosphere. The flat white was spot on! Great place to catch up with friends.,2,"Appreciate the feedback, Quinn. We'll work on improving.",2024-04-14
+RVW00235,B002,Shoreditch Express,Chris Garcia,False,33,4,2024-12-23,Not impressed with the cleanliness this time. Great coffee and lovely atmosphere.,2,,
+RVW00236,B003,Southbank Riverside,Jordan Garcia,False,25,5,2024-04-12,Nitro cold brew was fantastic. Great coffee and lovely atmosphere.,2,,
+RVW00237,B003,Southbank Riverside,Taylor Smith,True,27,2,2024-12-06,The staff remembered my name—nice touch!,2,"We’re glad you enjoyed your visit, Taylor! —Team My Coffee",2024-12-12
+RVW00238,B004,Notting Hill Roastery,Jess Martin,False,26,5,2025-03-06,Nitro cold brew was fantastic. Not impressed with the cleanliness this time.,1,"Appreciate the feedback, Jess. We'll work on improving.",2025-03-06
+RVW00239,B005,Greenwich Park Kiosk,Robin Johnson,False,23,5,2024-12-08,Cosy spot to work with free Wi‑Fi. Outdoor seating is perfect on sunny days.,1,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-12-09
+RVW00240,B002,Shoreditch Express,Jordan Young,True,28,3,2024-06-10,Outdoor seating is perfect on sunny days. Friendly barista but order got mixed up.,0,,
+RVW00241,B006,Brixton Hub,Jamie Allen,False,26,5,2025-02-12,Their matcha latte is my new favourite.,0,"Hi Jamie, sorry we missed the mark. We'll share your feedback with the team.",2025-02-13
+RVW00242,B006,Brixton Hub,Jess Chen,False,25,5,2024-07-26,Their matcha latte is my new favourite. Music was too loud for my taste. The staff remembered my name—nice touch!,0,"Appreciate the feedback, Jess. We'll work on improving.",2024-07-31
+RVW00243,B005,Greenwich Park Kiosk,Lee Martin,False,28,4,2024-08-18,Music was too loud for my taste.,1,,
+RVW00244,B001,Camden Market Café,Robin Walker,True,23,4,2024-09-19,"Outdoor seating is perfect on sunny days. Great place to catch up with friends. Limited plug sockets, bring a charged laptop.",0,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-09-21
+RVW00245,B004,Notting Hill Roastery,Kris Kim,True,29,2,2024-06-27,The chai latte lacked flavour.,2,,
+RVW00246,B004,Notting Hill Roastery,Chris Martin,False,23,5,2024-08-21,Found a seat easily even during rush hour.,1,,
+RVW00247,B002,Shoreditch Express,Jordan Lewis,True,25,5,2024-04-28,Great place to catch up with friends. The staff remembered my name—nice touch!,4,,
+RVW00248,B003,Southbank Riverside,Pat Clark,False,27,4,2024-06-13,"Not impressed with the cleanliness this time. I enjoyed the pastries, though the coffee was a bit bitter.",3,"Appreciate the feedback, Pat. We'll work on improving.",2024-06-17
+RVW00249,B006,Brixton Hub,Robin Chen,False,33,4,2025-02-20,Loved the vegan options on the menu.,1,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2025-02-21
+RVW00250,B002,Shoreditch Express,Jordan Kim,False,21,4,2024-10-14,Music was too loud for my taste. The croissants are always fresh.,1,,
+RVW00251,B005,Greenwich Park Kiosk,Sam Wright,False,33,5,2024-11-15,Friendly barista but order got mixed up.,2,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-11-20
+RVW00252,B004,Notting Hill Roastery,Cameron Young,False,24,3,2024-10-14,"The croissants are always fresh. I enjoyed the pastries, though the coffee was a bit bitter. Prices are fair for London.",0,,
+RVW00253,B006,Brixton Hub,Casey Clark,False,30,5,2024-08-06,Loved the vegan options on the menu. Not impressed with the cleanliness this time. Cosy spot to work with free Wi‑Fi.,1,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2024-08-07
+RVW00254,B002,Shoreditch Express,Casey Brown,False,26,5,2024-06-13,"The croissants are always fresh. Limited plug sockets, bring a charged laptop. Queue moved faster than expected.",4,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2024-06-17
+RVW00255,B006,Brixton Hub,Kris Allen,False,23,5,2024-12-12,Service was quick and friendly. Great place to catch up with friends.,1,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-12-17
+RVW00256,B005,Greenwich Park Kiosk,Quinn Walker,True,29,5,2024-09-28,Friendly barista but order got mixed up. Great coffee and lovely atmosphere.,2,,
+RVW00257,B006,Brixton Hub,Lee Walker,True,27,4,2024-07-11,The flat white was spot on!,1,,
+RVW00258,B002,Shoreditch Express,Taylor King,False,27,3,2024-01-07,Friendly barista but order got mixed up. The staff remembered my name—nice touch!,1,"Thanks for the kind words, Taylor! Hope to see you again soon.",2024-01-11
+RVW00259,B002,Shoreditch Express,Quinn Jones,False,32,5,2024-06-02,The flat white was spot on! The chai latte lacked flavour. Friendly barista but order got mixed up.,0,,
+RVW00260,B005,Greenwich Park Kiosk,Casey Clark,False,27,5,2024-03-17,Prices are fair for London.,2,,
+RVW00261,B004,Notting Hill Roastery,Jordan Patel,False,22,4,2025-01-04,The flat white was spot on!,1,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2025-01-07
+RVW00262,B001,Camden Market Café,Lee Lee,True,23,5,2025-03-07,Great coffee and lovely atmosphere. Music was too loud for my taste. The flat white was spot on!,1,"We’re glad you enjoyed your visit, Lee! —Team My Coffee",2025-03-14
+RVW00263,B001,Camden Market Café,Cameron Smith,False,21,5,2024-08-21,Outdoor seating is perfect on sunny days. Service was quick and friendly.,1,"Appreciate the feedback, Cameron. We'll work on improving.",2024-08-24
+RVW00264,B001,Camden Market Café,Jordan Kim,True,19,3,2024-02-27,Outdoor seating is perfect on sunny days. Found a seat easily even during rush hour.,0,"Appreciate the feedback, Jordan. We'll work on improving.",2024-03-03
+RVW00265,B003,Southbank Riverside,Avery Lewis,True,24,2,2025-01-02,The flat white was spot on!,3,"We’re glad you enjoyed your visit, Avery! —Team My Coffee",2025-01-04
+RVW00266,B004,Notting Hill Roastery,Drew Clark,False,34,5,2024-06-22,"Limited plug sockets, bring a charged laptop. Found a seat easily even during rush hour. The croissants are always fresh.",2,"Appreciate the feedback, Drew. We'll work on improving.",2024-06-26
+RVW00267,B006,Brixton Hub,Quinn King,True,23,5,2025-01-22,Friendly barista but order got mixed up. Outdoor seating is perfect on sunny days.,3,"Hi Quinn, sorry we missed the mark. We'll share your feedback with the team.",2025-01-27
+RVW00268,B004,Notting Hill Roastery,Jordan Walker,False,28,5,2024-12-12,Not impressed with the cleanliness this time.,1,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2024-12-13
+RVW00269,B002,Shoreditch Express,Sam Harris,False,20,5,2024-03-21,Music was too loud for my taste. Found a seat easily even during rush hour.,2,"Hi Sam, sorry we missed the mark. We'll share your feedback with the team.",2024-03-23
+RVW00270,B001,Camden Market Café,Pat Lee,False,22,5,2025-03-22,Loved the vegan options on the menu.,0,"Hi Pat, sorry we missed the mark. We'll share your feedback with the team.",2025-03-25
+RVW00271,B006,Brixton Hub,Quinn Smith,False,24,4,2024-04-10,Service was quick and friendly. Their matcha latte is my new favourite.,0,,
+RVW00272,B006,Brixton Hub,Riley Smith,False,29,2,2024-11-21,Not impressed with the cleanliness this time.,1,"Hi Riley, sorry we missed the mark. We'll share your feedback with the team.",2024-11-23
+RVW00273,B004,Notting Hill Roastery,Sam Walker,False,28,5,2024-01-20,Not impressed with the cleanliness this time. Great coffee and lovely atmosphere. Prices are fair for London.,0,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-01-26
+RVW00274,B002,Shoreditch Express,Kris Wright,False,24,4,2024-06-06,Nitro cold brew was fantastic. Great place to catch up with friends. The flat white was spot on!,0,"Hi Kris, sorry we missed the mark. We'll share your feedback with the team.",2024-06-12
+RVW00275,B006,Brixton Hub,Jess Kim,False,24,4,2024-05-16,Not impressed with the cleanliness this time.,1,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2024-05-18
+RVW00276,B005,Greenwich Park Kiosk,Chris Harris,False,25,5,2024-08-01,Prices are fair for London.,2,,
+RVW00277,B001,Camden Market Café,Avery Singh,False,28,5,2024-11-24,Their matcha latte is my new favourite.,3,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-11-29
+RVW00278,B001,Camden Market Café,Sam Singh,False,19,4,2024-12-12,Service was quick and friendly.,1,,
+RVW00279,B004,Notting Hill Roastery,Avery Patel,True,32,5,2024-02-11,Queue moved faster than expected. Great coffee and lovely atmosphere. The croissants are always fresh.,1,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-02-14
+RVW00280,B001,Camden Market Café,Pat Lee,False,20,3,2025-02-13,Found a seat easily even during rush hour.,1,,
+RVW00281,B001,Camden Market Café,Jamie Chen,False,27,5,2025-02-26,"Loved the vegan options on the menu. Found a seat easily even during rush hour. Limited plug sockets, bring a charged laptop.",1,,
+RVW00282,B001,Camden Market Café,Kris Garcia,False,26,5,2024-10-18,The flat white was spot on!,1,"Hi Kris, sorry we missed the mark. We'll share your feedback with the team.",2024-10-22
+RVW00283,B003,Southbank Riverside,Dana Lewis,True,26,5,2024-05-01,Queue moved faster than expected. Outdoor seating is perfect on sunny days.,1,"Thanks for the kind words, Dana! Hope to see you again soon.",2024-05-08
+RVW00284,B002,Shoreditch Express,Robin Allen,True,20,5,2024-11-27,"Music was too loud for my taste. I enjoyed the pastries, though the coffee was a bit bitter.",2,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-12-04
+RVW00285,B005,Greenwich Park Kiosk,Dana Chen,False,26,2,2025-02-26,Loved the vegan options on the menu.,0,"Appreciate the feedback, Dana. We'll work on improving.",2025-03-03
+RVW00286,B003,Southbank Riverside,Casey Young,True,24,4,2024-11-25,Great place to catch up with friends.,0,"Appreciate the feedback, Casey. We'll work on improving.",2024-11-26
+RVW00287,B002,Shoreditch Express,Jess Clark,False,35,5,2024-03-31,Great coffee and lovely atmosphere.,1,,
+RVW00288,B004,Notting Hill Roastery,Jordan Hill,True,29,3,2025-03-05,Queue moved faster than expected. Cosy spot to work with free Wi‑Fi. Nitro cold brew was fantastic.,1,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2025-03-11
+RVW00289,B003,Southbank Riverside,Cameron Brown,True,25,4,2024-11-30,Queue moved faster than expected.,0,"Thanks for the kind words, Cameron! Hope to see you again soon.",2024-12-02
+RVW00290,B004,Notting Hill Roastery,Kris Patel,True,26,5,2025-03-18,Great place to catch up with friends. Cosy spot to work with free Wi‑Fi. Loved the vegan options on the menu.,3,"Thanks for the kind words, Kris! Hope to see you again soon.",2025-03-19
+RVW00291,B005,Greenwich Park Kiosk,Skyler Wright,True,21,5,2024-09-01,Outdoor seating is perfect on sunny days.,1,"Thanks for the kind words, Skyler! Hope to see you again soon.",2024-09-01
+RVW00292,B006,Brixton Hub,Morgan Harris,False,32,5,2024-09-19,Service was quick and friendly. The chai latte lacked flavour.,1,,
+RVW00293,B006,Brixton Hub,Casey Young,False,24,5,2024-09-29,Prices are fair for London.,3,,
+RVW00294,B003,Southbank Riverside,Morgan Lee,False,36,5,2025-01-14,"The flat white was spot on! I enjoyed the pastries, though the coffee was a bit bitter. Great coffee and lovely atmosphere.",0,,
+RVW00295,B005,Greenwich Park Kiosk,Robin Kim,False,36,5,2024-03-12,Prices are fair for London. Queue moved faster than expected.,2,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-03-17
+RVW00296,B002,Shoreditch Express,Drew Patel,False,25,5,2024-02-17,The croissants are always fresh.,2,,
+RVW00297,B002,Shoreditch Express,Kris Chen,False,20,5,2024-09-20,Queue moved faster than expected. The staff remembered my name—nice touch!,2,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-09-21
+RVW00298,B001,Camden Market Café,Riley Patel,False,33,5,2024-03-14,The staff remembered my name—nice touch!,2,,
+RVW00299,B001,Camden Market Café,Kris Garcia,True,21,5,2024-07-17,Not impressed with the cleanliness this time. Outdoor seating is perfect on sunny days.,3,"Appreciate the feedback, Kris. We'll work on improving.",2024-07-20
+RVW00300,B002,Shoreditch Express,Drew Allen,False,31,2,2024-12-01,The croissants are always fresh.,1,"Hi Drew, sorry we missed the mark. We'll share your feedback with the team.",2024-12-08
+RVW00301,B005,Greenwich Park Kiosk,Chris Smith,True,32,3,2025-02-03,Service was quick and friendly. The chai latte lacked flavour.,1,,
+RVW00302,B001,Camden Market Café,Jamie King,False,31,4,2024-10-15,Outdoor seating is perfect on sunny days. The croissants are always fresh. Service was quick and friendly.,4,,
+RVW00303,B001,Camden Market Café,Sam Jones,False,21,5,2024-10-01,Found a seat easily even during rush hour. Not impressed with the cleanliness this time. The chai latte lacked flavour.,1,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-10-03
+RVW00304,B006,Brixton Hub,Kris Smith,True,20,5,2025-03-03,Great coffee and lovely atmosphere. Not impressed with the cleanliness this time.,2,,
+RVW00305,B004,Notting Hill Roastery,Kris Singh,False,30,4,2024-06-28,Friendly barista but order got mixed up. Not impressed with the cleanliness this time.,4,"Appreciate the feedback, Kris. We'll work on improving.",2024-07-05
+RVW00306,B003,Southbank Riverside,Morgan Martin,False,22,5,2025-03-19,Prices are fair for London.,1,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2025-03-22
+RVW00307,B006,Brixton Hub,Taylor Young,False,28,5,2025-03-24,"Queue moved faster than expected. The croissants are always fresh. I enjoyed the pastries, though the coffee was a bit bitter.",3,"Appreciate the feedback, Taylor. We'll work on improving.",2025-03-28
+RVW00308,B003,Southbank Riverside,Taylor Hill,True,23,5,2025-01-10,Great place to catch up with friends.,3,"Appreciate the feedback, Taylor. We'll work on improving.",2025-01-11
+RVW00309,B004,Notting Hill Roastery,Skyler Brown,False,29,4,2024-05-04,The chai latte lacked flavour. The flat white was spot on! Outdoor seating is perfect on sunny days.,1,,
+RVW00310,B004,Notting Hill Roastery,Cameron Singh,False,24,1,2025-03-28,"Friendly barista but order got mixed up. Nitro cold brew was fantastic. I enjoyed the pastries, though the coffee was a bit bitter.",3,,
+RVW00311,B002,Shoreditch Express,Lee Young,False,27,5,2024-11-21,Not impressed with the cleanliness this time.,2,,
+RVW00312,B001,Camden Market Café,Drew Jones,False,29,1,2024-09-04,"Limited plug sockets, bring a charged laptop.",2,"We’re glad you enjoyed your visit, Drew! —Team My Coffee",2024-09-06
+RVW00313,B003,Southbank Riverside,Taylor Lee,False,20,5,2024-04-26,"I enjoyed the pastries, though the coffee was a bit bitter. Music was too loud for my taste.",1,"Appreciate the feedback, Taylor. We'll work on improving.",2024-05-01
+RVW00314,B002,Shoreditch Express,Robin Martin,False,33,4,2024-02-03,Queue moved faster than expected. Outdoor seating is perfect on sunny days. Found a seat easily even during rush hour.,3,"Thanks for the kind words, Robin! Hope to see you again soon.",2024-02-08
+RVW00315,B003,Southbank Riverside,Drew Harris,False,35,5,2024-07-01,"I enjoyed the pastries, though the coffee was a bit bitter. Found a seat easily even during rush hour.",1,"We’re glad you enjoyed your visit, Drew! —Team My Coffee",2024-07-03
+RVW00316,B001,Camden Market Café,Alex Young,False,28,5,2024-02-11,Queue moved faster than expected. Loved the vegan options on the menu.,1,"Thanks for the kind words, Alex! Hope to see you again soon.",2024-02-15
+RVW00317,B006,Brixton Hub,Skyler Lewis,True,27,5,2025-02-19,Cosy spot to work with free Wi‑Fi. Their matcha latte is my new favourite. Queue moved faster than expected.,2,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2025-02-23
+RVW00318,B006,Brixton Hub,Sam Allen,False,21,4,2024-07-31,Cosy spot to work with free Wi‑Fi. The flat white was spot on! Their matcha latte is my new favourite.,2,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-08-04
+RVW00319,B002,Shoreditch Express,Riley Garcia,False,23,3,2025-01-09,Friendly barista but order got mixed up. Queue moved faster than expected.,1,"Hi Riley, sorry we missed the mark. We'll share your feedback with the team.",2025-01-16
+RVW00320,B001,Camden Market Café,Robin Kim,False,26,4,2024-10-10,Nitro cold brew was fantastic. Great place to catch up with friends.,2,,
+RVW00321,B001,Camden Market Café,Jamie Smith,False,31,4,2024-12-20,The croissants are always fresh. Music was too loud for my taste.,2,,
+RVW00322,B003,Southbank Riverside,Taylor Brown,False,27,5,2024-11-17,"The staff remembered my name—nice touch! I enjoyed the pastries, though the coffee was a bit bitter. Music was too loud for my taste.",2,"We’re glad you enjoyed your visit, Taylor! —Team My Coffee",2024-11-18
+RVW00323,B001,Camden Market Café,Cameron Young,True,34,5,2024-09-23,Queue moved faster than expected. The chai latte lacked flavour. Service was quick and friendly.,4,,
+RVW00324,B002,Shoreditch Express,Casey Chen,True,32,4,2024-10-25,The flat white was spot on! Great place to catch up with friends. Music was too loud for my taste.,0,"Thanks for the kind words, Casey! Hope to see you again soon.",2024-10-25
+RVW00325,B003,Southbank Riverside,Riley Jones,True,31,3,2025-02-22,Found a seat easily even during rush hour. Prices are fair for London.,2,"Appreciate the feedback, Riley. We'll work on improving.",2025-02-22
+RVW00326,B001,Camden Market Café,Drew Lee,True,31,4,2024-03-04,Queue moved faster than expected. Not impressed with the cleanliness this time.,1,"Thanks for the kind words, Drew! Hope to see you again soon.",2024-03-11
+RVW00327,B004,Notting Hill Roastery,Drew Lee,False,31,5,2024-08-30,Music was too loud for my taste. The staff remembered my name—nice touch! Cosy spot to work with free Wi‑Fi.,1,"Appreciate the feedback, Drew. We'll work on improving.",2024-09-05
+RVW00328,B006,Brixton Hub,Lee Chen,False,25,3,2024-12-07,Outdoor seating is perfect on sunny days.,3,,
+RVW00329,B001,Camden Market Café,Morgan Patel,True,23,5,2024-03-27,Not impressed with the cleanliness this time.,2,,
+RVW00330,B001,Camden Market Café,Riley Lewis,False,23,5,2024-09-18,The flat white was spot on!,0,"Thanks for the kind words, Riley! Hope to see you again soon.",2024-09-25
+RVW00331,B005,Greenwich Park Kiosk,Cameron Young,True,25,5,2024-07-04,Cosy spot to work with free Wi‑Fi. Prices are fair for London.,1,,
+RVW00332,B004,Notting Hill Roastery,Casey Harris,False,24,5,2024-02-29,"Their matcha latte is my new favourite. I enjoyed the pastries, though the coffee was a bit bitter. Music was too loud for my taste.",2,"Thanks for the kind words, Casey! Hope to see you again soon.",2024-02-29
+RVW00333,B003,Southbank Riverside,Jordan Young,True,33,3,2024-08-09,Found a seat easily even during rush hour.,2,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-08-11
+RVW00334,B006,Brixton Hub,Alex Hill,False,29,5,2024-06-02,"The chai latte lacked flavour. Music was too loud for my taste. I enjoyed the pastries, though the coffee was a bit bitter.",4,,
+RVW00335,B003,Southbank Riverside,Avery Lewis,False,32,3,2024-07-15,Outdoor seating is perfect on sunny days. Great coffee and lovely atmosphere. The flat white was spot on!,1,"Thanks for the kind words, Avery! Hope to see you again soon.",2024-07-17
+RVW00336,B006,Brixton Hub,Chris Jones,False,28,5,2024-12-31,Great place to catch up with friends.,2,"Appreciate the feedback, Chris. We'll work on improving.",2024-12-31
+RVW00337,B005,Greenwich Park Kiosk,Quinn Brown,False,22,5,2024-10-07,Their matcha latte is my new favourite.,1,,
+RVW00338,B004,Notting Hill Roastery,Sam Walker,False,29,5,2024-07-05,The chai latte lacked flavour. Queue moved faster than expected.,2,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-07-09
+RVW00339,B006,Brixton Hub,Jamie Lewis,True,29,5,2024-08-26,Their matcha latte is my new favourite.,1,"Appreciate the feedback, Jamie. We'll work on improving.",2024-08-30
+RVW00340,B006,Brixton Hub,Sam Lewis,False,22,5,2024-08-30,The croissants are always fresh. The flat white was spot on!,3,"Appreciate the feedback, Sam. We'll work on improving.",2024-09-01
+RVW00341,B004,Notting Hill Roastery,Casey Brown,True,23,4,2024-11-18,Music was too loud for my taste. Friendly barista but order got mixed up.,2,"Thanks for the kind words, Casey! Hope to see you again soon.",2024-11-19
+RVW00342,B004,Notting Hill Roastery,Chris Wright,False,31,4,2025-01-15,Cosy spot to work with free Wi‑Fi.,1,"Thanks for the kind words, Chris! Hope to see you again soon.",2025-01-18
+RVW00343,B004,Notting Hill Roastery,Morgan Brown,False,24,5,2024-09-07,Great coffee and lovely atmosphere.,2,"Thanks for the kind words, Morgan! Hope to see you again soon.",2024-09-08
+RVW00344,B002,Shoreditch Express,Morgan Singh,False,21,5,2024-09-05,Service was quick and friendly. Queue moved faster than expected. Their matcha latte is my new favourite.,2,"Thanks for the kind words, Morgan! Hope to see you again soon.",2024-09-06
+RVW00345,B004,Notting Hill Roastery,Morgan Johnson,True,31,3,2024-09-29,Found a seat easily even during rush hour. Not impressed with the cleanliness this time.,2,"Hi Morgan, sorry we missed the mark. We'll share your feedback with the team.",2024-09-30
+RVW00346,B005,Greenwich Park Kiosk,Skyler Young,True,19,2,2024-10-13,Nitro cold brew was fantastic. Friendly barista but order got mixed up.,0,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-10-19
+RVW00347,B004,Notting Hill Roastery,Riley Lewis,True,23,3,2025-01-16,Their matcha latte is my new favourite. Not impressed with the cleanliness this time. The chai latte lacked flavour.,2,,
+RVW00348,B004,Notting Hill Roastery,Avery Lewis,False,23,2,2024-06-06,Loved the vegan options on the menu. Their matcha latte is my new favourite. Great place to catch up with friends.,0,,
+RVW00349,B001,Camden Market Café,Dana Walker,False,13,5,2024-11-21,"Limited plug sockets, bring a charged laptop. Service was quick and friendly. Nitro cold brew was fantastic.",3,,
+RVW00350,B003,Southbank Riverside,Drew Wright,False,23,2,2024-04-22,Their matcha latte is my new favourite. Service was quick and friendly.,0,,
+RVW00351,B006,Brixton Hub,Robin Young,False,24,3,2024-03-15,Prices are fair for London. The croissants are always fresh. The chai latte lacked flavour.,1,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-03-15
+RVW00352,B004,Notting Hill Roastery,Robin Garcia,True,27,5,2024-02-03,The chai latte lacked flavour. Nitro cold brew was fantastic. Their matcha latte is my new favourite.,0,,
+RVW00353,B003,Southbank Riverside,Skyler Kim,False,27,5,2024-04-18,Found a seat easily even during rush hour.,3,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2024-04-20
+RVW00354,B006,Brixton Hub,Dana Lee,False,32,5,2024-03-12,Outdoor seating is perfect on sunny days. Found a seat easily even during rush hour. Loved the vegan options on the menu.,1,,
+RVW00355,B004,Notting Hill Roastery,Chris Johnson,False,17,4,2024-09-13,Cosy spot to work with free Wi‑Fi. Great place to catch up with friends. Not impressed with the cleanliness this time.,0,"Hi Chris, sorry we missed the mark. We'll share your feedback with the team.",2024-09-13
+RVW00356,B001,Camden Market Café,Jess Harris,False,25,3,2025-02-12,Nitro cold brew was fantastic. Great coffee and lovely atmosphere. Prices are fair for London.,2,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2025-02-15
+RVW00357,B003,Southbank Riverside,Chris Brown,True,30,5,2025-02-08,Cosy spot to work with free Wi‑Fi.,2,"Thanks for the kind words, Chris! Hope to see you again soon.",2025-02-13
+RVW00358,B003,Southbank Riverside,Riley Smith,False,34,4,2025-01-26,Service was quick and friendly. Cosy spot to work with free Wi‑Fi. Queue moved faster than expected.,1,"We’re glad you enjoyed your visit, Riley! —Team My Coffee",2025-01-27
+RVW00359,B005,Greenwich Park Kiosk,Sam Kim,False,24,4,2024-08-20,Their matcha latte is my new favourite. Friendly barista but order got mixed up. Service was quick and friendly.,1,"Hi Sam, sorry we missed the mark. We'll share your feedback with the team.",2024-08-22
+RVW00360,B004,Notting Hill Roastery,Dana King,True,30,5,2024-04-08,The croissants are always fresh. Cosy spot to work with free Wi‑Fi.,3,,
+RVW00361,B004,Notting Hill Roastery,Riley Kim,True,11,4,2024-02-02,"I enjoyed the pastries, though the coffee was a bit bitter. The staff remembered my name—nice touch! The flat white was spot on!",2,,
+RVW00362,B006,Brixton Hub,Lee Walker,False,24,3,2024-10-15,"I enjoyed the pastries, though the coffee was a bit bitter. Cosy spot to work with free Wi‑Fi.",5,"Thanks for the kind words, Lee! Hope to see you again soon.",2024-10-22
+RVW00363,B003,Southbank Riverside,Quinn Kim,False,23,5,2024-10-31,Not impressed with the cleanliness this time. The staff remembered my name—nice touch!,1,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2024-11-05
+RVW00364,B001,Camden Market Café,Lee Smith,False,25,5,2024-03-22,Loved the vegan options on the menu. Great coffee and lovely atmosphere. Queue moved faster than expected.,0,"Thanks for the kind words, Lee! Hope to see you again soon.",2024-03-28
+RVW00365,B005,Greenwich Park Kiosk,Riley Allen,True,25,2,2024-12-02,Queue moved faster than expected. Loved the vegan options on the menu.,1,,
+RVW00366,B001,Camden Market Café,Pat Martin,False,24,2,2024-07-10,"Limited plug sockets, bring a charged laptop. The croissants are always fresh. Not impressed with the cleanliness this time.",5,"Appreciate the feedback, Pat. We'll work on improving.",2024-07-14
+RVW00367,B005,Greenwich Park Kiosk,Pat Walker,False,17,4,2024-12-06,Music was too loud for my taste. Loved the vegan options on the menu. The flat white was spot on!,2,"Hi Pat, sorry we missed the mark. We'll share your feedback with the team.",2024-12-09
+RVW00368,B001,Camden Market Café,Taylor Jones,False,28,4,2024-06-04,Outdoor seating is perfect on sunny days. Prices are fair for London.,3,"Thanks for the kind words, Taylor! Hope to see you again soon.",2024-06-06
+RVW00369,B002,Shoreditch Express,Morgan Hill,True,35,5,2024-11-30,"I enjoyed the pastries, though the coffee was a bit bitter. Queue moved faster than expected.",2,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2024-12-03
+RVW00370,B002,Shoreditch Express,Jordan Harris,False,24,4,2024-08-06,Friendly barista but order got mixed up. Not impressed with the cleanliness this time.,2,"Thanks for the kind words, Jordan! Hope to see you again soon.",2024-08-06
+RVW00371,B005,Greenwich Park Kiosk,Cameron Kim,False,21,3,2024-04-04,Great coffee and lovely atmosphere. Service was quick and friendly.,0,,
+RVW00372,B006,Brixton Hub,Riley Martin,False,21,5,2024-10-31,Their matcha latte is my new favourite.,2,,
+RVW00373,B002,Shoreditch Express,Avery Young,False,19,5,2024-11-06,Queue moved faster than expected. The staff remembered my name—nice touch! Prices are fair for London.,2,,
+RVW00374,B005,Greenwich Park Kiosk,Jess Wright,True,26,4,2025-03-20,Service was quick and friendly. The chai latte lacked flavour.,2,,
+RVW00375,B001,Camden Market Café,Riley Garcia,True,23,5,2024-05-04,Loved the vegan options on the menu.,0,,
+RVW00376,B006,Brixton Hub,Robin Clark,True,16,4,2024-07-14,Outdoor seating is perfect on sunny days.,1,"Thanks for the kind words, Robin! Hope to see you again soon.",2024-07-19
+RVW00377,B003,Southbank Riverside,Casey Kim,False,24,5,2024-03-13,"Limited plug sockets, bring a charged laptop.",1,"Hi Casey, sorry we missed the mark. We'll share your feedback with the team.",2024-03-18
+RVW00378,B005,Greenwich Park Kiosk,Dana Clark,False,27,4,2024-01-13,Great coffee and lovely atmosphere.,1,"We’re glad you enjoyed your visit, Dana! —Team My Coffee",2024-01-20
+RVW00379,B006,Brixton Hub,Taylor Lewis,False,19,3,2024-12-08,"The flat white was spot on! Limited plug sockets, bring a charged laptop.",0,"Thanks for the kind words, Taylor! Hope to see you again soon.",2024-12-11
+RVW00380,B003,Southbank Riverside,Skyler Martin,False,27,4,2024-02-27,"Limited plug sockets, bring a charged laptop. Music was too loud for my taste.",4,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2024-03-05
+RVW00381,B006,Brixton Hub,Jamie Young,False,21,5,2025-01-31,Queue moved faster than expected. Cosy spot to work with free Wi‑Fi. Found a seat easily even during rush hour.,2,,
+RVW00382,B004,Notting Hill Roastery,Jamie Smith,False,28,5,2024-09-24,"Limited plug sockets, bring a charged laptop. Music was too loud for my taste.",2,,
+RVW00383,B002,Shoreditch Express,Morgan Patel,True,26,4,2024-05-31,Nitro cold brew was fantastic.,0,"Thanks for the kind words, Morgan! Hope to see you again soon.",2024-06-07
+RVW00384,B003,Southbank Riverside,Kris Young,False,18,2,2024-01-04,Their matcha latte is my new favourite. Cosy spot to work with free Wi‑Fi.,1,"Hi Kris, sorry we missed the mark. We'll share your feedback with the team.",2024-01-06
+RVW00385,B006,Brixton Hub,Skyler Smith,False,26,5,2025-03-03,Outdoor seating is perfect on sunny days. Great coffee and lovely atmosphere.,0,,
+RVW00386,B005,Greenwich Park Kiosk,Robin Wright,True,21,4,2024-10-09,Outdoor seating is perfect on sunny days. Found a seat easily even during rush hour.,0,"We’re glad you enjoyed your visit, Robin! —Team My Coffee",2024-10-16
+RVW00387,B001,Camden Market Café,Jess Smith,False,29,3,2024-04-12,Their matcha latte is my new favourite. Service was quick and friendly. Friendly barista but order got mixed up.,4,"We’re glad you enjoyed your visit, Jess! —Team My Coffee",2024-04-17
+RVW00388,B005,Greenwich Park Kiosk,Morgan Clark,False,23,4,2024-08-18,Found a seat easily even during rush hour. Their matcha latte is my new favourite. Cosy spot to work with free Wi‑Fi.,2,,
+RVW00389,B005,Greenwich Park Kiosk,Morgan Hill,False,23,3,2024-08-17,The flat white was spot on!,1,,
+RVW00390,B003,Southbank Riverside,Casey Walker,False,27,5,2025-01-19,Nitro cold brew was fantastic. Outdoor seating is perfect on sunny days.,3,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2025-01-20
+RVW00391,B004,Notting Hill Roastery,Skyler Clark,False,32,5,2024-07-14,Outdoor seating is perfect on sunny days.,1,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-07-18
+RVW00392,B005,Greenwich Park Kiosk,Jess Hill,False,23,3,2024-12-22,Queue moved faster than expected.,1,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2024-12-23
+RVW00393,B006,Brixton Hub,Jess Smith,False,24,4,2024-02-23,Found a seat easily even during rush hour. The flat white was spot on! The chai latte lacked flavour.,2,,
+RVW00394,B003,Southbank Riverside,Skyler Martin,False,28,5,2024-07-01,"Limited plug sockets, bring a charged laptop. The croissants are always fresh. The flat white was spot on!",0,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2024-07-05
+RVW00395,B004,Notting Hill Roastery,Pat Smith,False,26,4,2024-04-25,"Their matcha latte is my new favourite. Great coffee and lovely atmosphere. Limited plug sockets, bring a charged laptop.",1,"Appreciate the feedback, Pat. We'll work on improving.",2024-04-28
+RVW00396,B005,Greenwich Park Kiosk,Kris Singh,False,30,5,2024-01-15,Queue moved faster than expected.,1,,
+RVW00397,B001,Camden Market Café,Quinn Brown,False,26,5,2024-10-25,Service was quick and friendly. Friendly barista but order got mixed up.,2,"Appreciate the feedback, Quinn. We'll work on improving.",2024-10-28
+RVW00398,B004,Notting Hill Roastery,Morgan Johnson,False,33,4,2025-03-11,Their matcha latte is my new favourite.,1,,
+RVW00399,B003,Southbank Riverside,Chris Chen,True,23,5,2024-07-20,Loved the vegan options on the menu. The croissants are always fresh. Their matcha latte is my new favourite.,1,"Appreciate the feedback, Chris. We'll work on improving.",2024-07-23
+RVW00400,B003,Southbank Riverside,Lee Kim,False,15,4,2024-11-08,"I enjoyed the pastries, though the coffee was a bit bitter. Service was quick and friendly.",5,,
+RVW00401,B002,Shoreditch Express,Skyler Chen,False,17,3,2024-04-13,"Friendly barista but order got mixed up. I enjoyed the pastries, though the coffee was a bit bitter.",1,"Appreciate the feedback, Skyler. We'll work on improving.",2024-04-13
+RVW00402,B004,Notting Hill Roastery,Chris Wright,True,21,2,2024-01-07,Cosy spot to work with free Wi‑Fi. Great place to catch up with friends. Queue moved faster than expected.,0,"Appreciate the feedback, Chris. We'll work on improving.",2024-01-13
+RVW00403,B001,Camden Market Café,Quinn Garcia,False,21,5,2024-12-23,Great coffee and lovely atmosphere. Friendly barista but order got mixed up. Great place to catch up with friends.,2,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2024-12-23
+RVW00404,B005,Greenwich Park Kiosk,Sam Chen,False,24,1,2024-09-29,Music was too loud for my taste.,1,"Appreciate the feedback, Sam. We'll work on improving.",2024-10-06
+RVW00405,B004,Notting Hill Roastery,Jamie Young,False,24,3,2024-02-16,Their matcha latte is my new favourite. Music was too loud for my taste. The chai latte lacked flavour.,2,"Thanks for the kind words, Jamie! Hope to see you again soon.",2024-02-21
+RVW00406,B002,Shoreditch Express,Riley Lee,False,32,3,2025-02-15,Prices are fair for London.,1,"Thanks for the kind words, Riley! Hope to see you again soon.",2025-02-22
+RVW00407,B002,Shoreditch Express,Quinn Brown,False,26,4,2024-05-23,Cosy spot to work with free Wi‑Fi. The chai latte lacked flavour.,3,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2024-05-24
+RVW00408,B006,Brixton Hub,Morgan Singh,False,37,4,2025-01-27,Found a seat easily even during rush hour.,0,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2025-01-28
+RVW00409,B001,Camden Market Café,Jordan Clark,False,26,3,2024-08-13,Prices are fair for London.,3,"Thanks for the kind words, Jordan! Hope to see you again soon.",2024-08-13
+RVW00410,B006,Brixton Hub,Casey Chen,False,27,4,2024-11-17,Not impressed with the cleanliness this time.,1,,
+RVW00411,B006,Brixton Hub,Robin Patel,False,27,5,2024-11-01,"The chai latte lacked flavour. Limited plug sockets, bring a charged laptop.",1,,
+RVW00412,B001,Camden Market Café,Jess Wright,False,33,1,2024-05-10,Cosy spot to work with free Wi‑Fi.,0,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-05-13
+RVW00413,B003,Southbank Riverside,Skyler Hill,False,30,4,2024-10-24,"Loved the vegan options on the menu. Limited plug sockets, bring a charged laptop.",1,,
+RVW00414,B005,Greenwich Park Kiosk,Taylor Martin,False,29,5,2025-03-06,Their matcha latte is my new favourite. Music was too loud for my taste. The staff remembered my name—nice touch!,1,"Thanks for the kind words, Taylor! Hope to see you again soon.",2025-03-07
+RVW00415,B004,Notting Hill Roastery,Morgan Martin,True,27,5,2024-09-03,The chai latte lacked flavour. Outdoor seating is perfect on sunny days. Queue moved faster than expected.,2,"Hi Morgan, sorry we missed the mark. We'll share your feedback with the team.",2024-09-04
+RVW00416,B006,Brixton Hub,Avery King,False,28,5,2025-01-28,The flat white was spot on!,2,,
+RVW00417,B005,Greenwich Park Kiosk,Skyler Allen,False,21,5,2024-09-07,Great coffee and lovely atmosphere. Queue moved faster than expected.,1,,
+RVW00418,B004,Notting Hill Roastery,Casey Lewis,False,24,5,2025-02-11,Outdoor seating is perfect on sunny days. Nitro cold brew was fantastic. Loved the vegan options on the menu.,2,,
+RVW00419,B006,Brixton Hub,Sam Garcia,True,30,4,2024-04-18,Queue moved faster than expected.,2,,
+RVW00420,B003,Southbank Riverside,Casey Wright,False,25,5,2024-01-30,The flat white was spot on!,1,"Thanks for the kind words, Casey! Hope to see you again soon.",2024-02-02
+RVW00421,B006,Brixton Hub,Morgan King,False,17,5,2024-06-10,Queue moved faster than expected.,2,"Thanks for the kind words, Morgan! Hope to see you again soon.",2024-06-10
+RVW00422,B002,Shoreditch Express,Sam Clark,False,21,5,2024-04-07,The staff remembered my name—nice touch! Loved the vegan options on the menu.,1,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-04-10
+RVW00423,B001,Camden Market Café,Pat Walker,False,22,5,2025-01-12,Great place to catch up with friends.,4,"Appreciate the feedback, Pat. We'll work on improving.",2025-01-17
+RVW00424,B004,Notting Hill Roastery,Sam Lewis,False,28,4,2024-03-08,Friendly barista but order got mixed up. Found a seat easily even during rush hour.,0,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-03-11
+RVW00425,B002,Shoreditch Express,Jordan Lee,True,22,5,2024-01-07,The flat white was spot on! Great place to catch up with friends. Music was too loud for my taste.,2,,
+RVW00426,B005,Greenwich Park Kiosk,Dana Clark,False,24,5,2024-05-06,The staff remembered my name—nice touch! Queue moved faster than expected.,1,"Thanks for the kind words, Dana! Hope to see you again soon.",2024-05-12
+RVW00427,B004,Notting Hill Roastery,Kris Young,False,25,5,2024-11-23,"Outdoor seating is perfect on sunny days. Friendly barista but order got mixed up. Limited plug sockets, bring a charged laptop.",1,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-11-26
+RVW00428,B004,Notting Hill Roastery,Casey Walker,False,20,3,2024-01-04,Nitro cold brew was fantastic. The flat white was spot on! Music was too loud for my taste.,0,,
+RVW00429,B002,Shoreditch Express,Lee Hill,False,25,5,2024-10-31,Great place to catch up with friends. The staff remembered my name—nice touch! Friendly barista but order got mixed up.,3,,
+RVW00430,B003,Southbank Riverside,Jamie Garcia,False,21,5,2025-03-26,Music was too loud for my taste. The chai latte lacked flavour.,2,"Appreciate the feedback, Jamie. We'll work on improving.",2025-03-29
+RVW00431,B001,Camden Market Café,Cameron Garcia,True,26,5,2024-01-29,Not impressed with the cleanliness this time. Loved the vegan options on the menu.,1,"Appreciate the feedback, Cameron. We'll work on improving.",2024-02-03
+RVW00432,B005,Greenwich Park Kiosk,Pat Smith,True,27,5,2025-03-29,The croissants are always fresh.,1,,
+RVW00433,B005,Greenwich Park Kiosk,Robin Smith,False,24,5,2024-11-07,Prices are fair for London. The chai latte lacked flavour.,2,,
+RVW00434,B005,Greenwich Park Kiosk,Quinn Singh,False,18,5,2024-07-10,The croissants are always fresh.,3,,
+RVW00435,B002,Shoreditch Express,Lee Lee,True,26,5,2024-03-20,Prices are fair for London.,1,,
+RVW00436,B005,Greenwich Park Kiosk,Casey Singh,False,33,4,2024-10-01,Queue moved faster than expected.,2,"Appreciate the feedback, Casey. We'll work on improving.",2024-10-08
+RVW00437,B002,Shoreditch Express,Jordan Hill,False,20,4,2025-02-06,Service was quick and friendly.,0,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2025-02-12
+RVW00438,B005,Greenwich Park Kiosk,Jordan Clark,True,21,4,2025-01-21,Friendly barista but order got mixed up.,2,,
+RVW00439,B004,Notting Hill Roastery,Cameron Garcia,False,24,3,2024-09-04,Their matcha latte is my new favourite. The croissants are always fresh.,0,"Appreciate the feedback, Cameron. We'll work on improving.",2024-09-06
+RVW00440,B005,Greenwich Park Kiosk,Avery Hill,False,35,3,2024-07-16,"Limited plug sockets, bring a charged laptop.",0,,
+RVW00441,B005,Greenwich Park Kiosk,Quinn Lewis,False,30,4,2024-07-18,Loved the vegan options on the menu. The flat white was spot on!,0,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-07-20
+RVW00442,B001,Camden Market Café,Kris Patel,False,18,5,2024-09-14,The croissants are always fresh. Queue moved faster than expected.,2,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-09-18
+RVW00443,B001,Camden Market Café,Casey Hill,False,19,5,2024-04-12,The croissants are always fresh. Queue moved faster than expected.,3,,
+RVW00444,B004,Notting Hill Roastery,Sam Chen,False,30,3,2024-12-03,Cosy spot to work with free Wi‑Fi. Friendly barista but order got mixed up.,0,,
+RVW00445,B001,Camden Market Café,Drew Johnson,False,30,4,2024-05-15,Nitro cold brew was fantastic.,1,,
+RVW00446,B005,Greenwich Park Kiosk,Cameron Young,False,24,5,2025-01-17,Great coffee and lovely atmosphere.,0,"Thanks for the kind words, Cameron! Hope to see you again soon.",2025-01-24
+RVW00447,B004,Notting Hill Roastery,Jamie Hill,True,29,5,2024-07-26,The flat white was spot on! The staff remembered my name—nice touch!,2,"We’re glad you enjoyed your visit, Jamie! —Team My Coffee",2024-08-01
+RVW00448,B004,Notting Hill Roastery,Jess Patel,False,25,4,2024-06-07,"Service was quick and friendly. Limited plug sockets, bring a charged laptop. Found a seat easily even during rush hour.",1,,
+RVW00449,B003,Southbank Riverside,Jess Harris,False,28,4,2024-08-05,"Limited plug sockets, bring a charged laptop. Their matcha latte is my new favourite. Queue moved faster than expected.",1,,
+RVW00450,B001,Camden Market Café,Drew Walker,False,26,4,2024-07-01,Queue moved faster than expected.,0,"Appreciate the feedback, Drew. We'll work on improving.",2024-07-04
+RVW00451,B002,Shoreditch Express,Skyler Patel,True,23,3,2025-03-26,"Great place to catch up with friends. The chai latte lacked flavour. Limited plug sockets, bring a charged laptop.",1,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2025-03-28
+RVW00452,B001,Camden Market Café,Cameron Harris,True,21,3,2024-09-10,Found a seat easily even during rush hour. Great coffee and lovely atmosphere. Music was too loud for my taste.,3,,
+RVW00453,B001,Camden Market Café,Taylor Garcia,False,19,5,2024-01-24,"The flat white was spot on! Outdoor seating is perfect on sunny days. Limited plug sockets, bring a charged laptop.",1,"Appreciate the feedback, Taylor. We'll work on improving.",2024-01-27
+RVW00454,B004,Notting Hill Roastery,Lee Wright,False,23,4,2024-07-10,Great coffee and lovely atmosphere. Their matcha latte is my new favourite.,1,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-07-12
+RVW00455,B005,Greenwich Park Kiosk,Drew Brown,False,19,5,2024-11-27,The flat white was spot on! Great place to catch up with friends. Friendly barista but order got mixed up.,1,"We’re glad you enjoyed your visit, Drew! —Team My Coffee",2024-11-29
+RVW00456,B002,Shoreditch Express,Lee Harris,False,26,5,2024-05-31,"Nitro cold brew was fantastic. Limited plug sockets, bring a charged laptop. Found a seat easily even during rush hour.",2,,
+RVW00457,B003,Southbank Riverside,Quinn Walker,False,29,3,2024-01-31,Friendly barista but order got mixed up. Not impressed with the cleanliness this time.,0,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-02-06
+RVW00458,B001,Camden Market Café,Skyler Lee,False,26,5,2024-10-02,Prices are fair for London.,1,"Hi Skyler, sorry we missed the mark. We'll share your feedback with the team.",2024-10-03
+RVW00459,B001,Camden Market Café,Taylor Harris,False,26,4,2024-11-30,Found a seat easily even during rush hour. Outdoor seating is perfect on sunny days.,2,"Thanks for the kind words, Taylor! Hope to see you again soon.",2024-12-05
+RVW00460,B004,Notting Hill Roastery,Jess Patel,False,33,2,2025-01-12,Great place to catch up with friends. The staff remembered my name—nice touch!,1,,
+RVW00461,B004,Notting Hill Roastery,Kris Allen,True,25,3,2024-05-18,The flat white was spot on! Not impressed with the cleanliness this time. Nitro cold brew was fantastic.,1,,
+RVW00462,B005,Greenwich Park Kiosk,Cameron Lee,False,29,4,2024-04-06,The chai latte lacked flavour.,2,"Appreciate the feedback, Cameron. We'll work on improving.",2024-04-13
+RVW00463,B003,Southbank Riverside,Sam Smith,False,26,5,2024-03-16,The croissants are always fresh. Friendly barista but order got mixed up. Music was too loud for my taste.,0,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-03-19
+RVW00464,B005,Greenwich Park Kiosk,Drew Lee,False,26,5,2024-02-19,The flat white was spot on! The croissants are always fresh. Found a seat easily even during rush hour.,0,"Appreciate the feedback, Drew. We'll work on improving.",2024-02-26
+RVW00465,B004,Notting Hill Roastery,Cameron Harris,False,27,4,2024-07-29,The flat white was spot on!,1,"Appreciate the feedback, Cameron. We'll work on improving.",2024-08-05
+RVW00466,B004,Notting Hill Roastery,Riley Jones,False,39,2,2024-04-08,Cosy spot to work with free Wi‑Fi.,2,"We’re glad you enjoyed your visit, Riley! —Team My Coffee",2024-04-11
+RVW00467,B006,Brixton Hub,Skyler Chen,False,29,5,2024-08-01,The chai latte lacked flavour. Loved the vegan options on the menu. Service was quick and friendly.,2,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-08-05
+RVW00468,B006,Brixton Hub,Cameron Walker,False,30,5,2024-11-18,Cosy spot to work with free Wi‑Fi. Not impressed with the cleanliness this time. Great coffee and lovely atmosphere.,0,"Hi Cameron, sorry we missed the mark. We'll share your feedback with the team.",2024-11-23
+RVW00469,B003,Southbank Riverside,Cameron Clark,True,21,3,2024-04-28,The croissants are always fresh. Cosy spot to work with free Wi‑Fi.,3,,
+RVW00470,B004,Notting Hill Roastery,Jordan Kim,False,27,5,2024-10-27,Great place to catch up with friends.,1,"Hi Jordan, sorry we missed the mark. We'll share your feedback with the team.",2024-10-28
+RVW00471,B003,Southbank Riverside,Taylor Martin,True,33,5,2024-09-17,"The croissants are always fresh. Great place to catch up with friends. I enjoyed the pastries, though the coffee was a bit bitter.",1,,
+RVW00472,B004,Notting Hill Roastery,Alex Allen,False,23,5,2025-03-01,Found a seat easily even during rush hour. Cosy spot to work with free Wi‑Fi. The flat white was spot on!,0,,
+RVW00473,B004,Notting Hill Roastery,Chris Jones,False,27,5,2024-03-21,"I enjoyed the pastries, though the coffee was a bit bitter.",0,"We’re glad you enjoyed your visit, Chris! —Team My Coffee",2024-03-25
+RVW00474,B003,Southbank Riverside,Morgan Harris,False,18,2,2024-04-24,"Cosy spot to work with free Wi‑Fi. I enjoyed the pastries, though the coffee was a bit bitter. Great place to catch up with friends.",2,"Thanks for the kind words, Morgan! Hope to see you again soon.",2024-04-30
+RVW00475,B005,Greenwich Park Kiosk,Alex Hill,False,19,5,2024-07-01,Music was too loud for my taste. Queue moved faster than expected. The staff remembered my name—nice touch!,0,"Hi Alex, sorry we missed the mark. We'll share your feedback with the team.",2024-07-02
+RVW00476,B005,Greenwich Park Kiosk,Morgan Brown,True,22,5,2024-01-07,Great place to catch up with friends. Loved the vegan options on the menu.,0,,
+RVW00477,B006,Brixton Hub,Taylor Garcia,False,28,5,2024-01-19,Their matcha latte is my new favourite. Great coffee and lovely atmosphere. Music was too loud for my taste.,1,"Hi Taylor, sorry we missed the mark. We'll share your feedback with the team.",2024-01-19
+RVW00478,B003,Southbank Riverside,Avery Jones,False,23,5,2024-02-29,Cosy spot to work with free Wi‑Fi.,0,,
+RVW00479,B001,Camden Market Café,Lee Martin,False,29,2,2024-03-26,Prices are fair for London.,0,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-04-01
+RVW00480,B005,Greenwich Park Kiosk,Alex Clark,False,36,4,2024-12-05,The staff remembered my name—nice touch! Cosy spot to work with free Wi‑Fi.,4,,
+RVW00481,B003,Southbank Riverside,Cameron Hill,False,39,4,2025-03-09,Outdoor seating is perfect on sunny days.,2,,
+RVW00482,B004,Notting Hill Roastery,Kris Lewis,False,28,4,2024-01-15,The croissants are always fresh. Loved the vegan options on the menu.,1,"Thanks for the kind words, Kris! Hope to see you again soon.",2024-01-15
+RVW00483,B002,Shoreditch Express,Avery Jones,True,29,5,2024-03-13,The flat white was spot on!,0,"Appreciate the feedback, Avery. We'll work on improving.",2024-03-18
+RVW00484,B005,Greenwich Park Kiosk,Lee Clark,False,19,4,2024-12-20,Great coffee and lovely atmosphere. Their matcha latte is my new favourite. Great place to catch up with friends.,2,"Appreciate the feedback, Lee. We'll work on improving.",2024-12-20
+RVW00485,B001,Camden Market Café,Sam Allen,False,26,5,2024-03-04,Loved the vegan options on the menu. The flat white was spot on!,1,,
+RVW00486,B004,Notting Hill Roastery,Cameron Lewis,True,23,5,2024-12-04,Cosy spot to work with free Wi‑Fi.,0,"Appreciate the feedback, Cameron. We'll work on improving.",2024-12-09
+RVW00487,B004,Notting Hill Roastery,Chris Walker,False,28,5,2024-05-30,Loved the vegan options on the menu. Their matcha latte is my new favourite.,0,"Appreciate the feedback, Chris. We'll work on improving.",2024-06-03
+RVW00488,B006,Brixton Hub,Quinn Garcia,False,29,3,2024-01-04,"Limited plug sockets, bring a charged laptop. The croissants are always fresh. Queue moved faster than expected.",2,"Hi Quinn, sorry we missed the mark. We'll share your feedback with the team.",2024-01-09
+RVW00489,B004,Notting Hill Roastery,Avery Singh,False,19,4,2024-04-05,Service was quick and friendly.,0,,
+RVW00490,B005,Greenwich Park Kiosk,Avery Brown,True,24,5,2024-09-13,The flat white was spot on! The staff remembered my name—nice touch!,3,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-09-14
+RVW00491,B006,Brixton Hub,Skyler Young,False,26,4,2024-11-25,The croissants are always fresh.,1,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-11-25
+RVW00492,B005,Greenwich Park Kiosk,Robin Lee,False,24,4,2024-11-17,Found a seat easily even during rush hour. Their matcha latte is my new favourite. Not impressed with the cleanliness this time.,0,,
+RVW00493,B002,Shoreditch Express,Dana Young,True,34,5,2024-11-22,"Nitro cold brew was fantastic. Great place to catch up with friends. I enjoyed the pastries, though the coffee was a bit bitter.",1,,
+RVW00494,B002,Shoreditch Express,Lee Johnson,False,18,5,2025-02-21,"Service was quick and friendly. Limited plug sockets, bring a charged laptop. Music was too loud for my taste.",3,"Thanks for the kind words, Lee! Hope to see you again soon.",2025-02-27
+RVW00495,B006,Brixton Hub,Morgan Garcia,False,25,4,2024-03-17,The croissants are always fresh.,2,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2024-03-24
+RVW00496,B004,Notting Hill Roastery,Kris Hill,True,25,2,2024-11-24,The chai latte lacked flavour. Prices are fair for London.,1,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2024-11-28
+RVW00497,B002,Shoreditch Express,Avery Wright,False,29,4,2024-04-17,"I enjoyed the pastries, though the coffee was a bit bitter. Great place to catch up with friends. Great coffee and lovely atmosphere.",1,,
+RVW00498,B005,Greenwich Park Kiosk,Quinn Brown,False,29,5,2024-04-09,Great place to catch up with friends. Outdoor seating is perfect on sunny days. Not impressed with the cleanliness this time.,1,,
+RVW00499,B004,Notting Hill Roastery,Robin Kim,False,28,5,2024-05-18,Found a seat easily even during rush hour. Outdoor seating is perfect on sunny days. The chai latte lacked flavour.,0,,
+RVW00500,B006,Brixton Hub,Jess Brown,True,28,4,2024-09-20,Prices are fair for London. Nitro cold brew was fantastic.,0,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-09-23
+RVW00501,B001,Camden Market Café,Sam Allen,False,29,5,2024-04-09,Nitro cold brew was fantastic.,1,,
+RVW00502,B005,Greenwich Park Kiosk,Morgan Jones,True,24,2,2024-04-15,Great place to catch up with friends.,0,"We’re glad you enjoyed your visit, Morgan! —Team My Coffee",2024-04-15
+RVW00503,B002,Shoreditch Express,Kris Jones,False,22,2,2025-03-09,Loved the vegan options on the menu.,2,"Thanks for the kind words, Kris! Hope to see you again soon.",2025-03-15
+RVW00504,B002,Shoreditch Express,Pat Jones,False,27,3,2025-02-18,"Their matcha latte is my new favourite. I enjoyed the pastries, though the coffee was a bit bitter.",2,"Thanks for the kind words, Pat! Hope to see you again soon.",2025-02-22
+RVW00505,B001,Camden Market Café,Taylor Singh,False,21,4,2024-10-27,Great coffee and lovely atmosphere. The staff remembered my name—nice touch! Found a seat easily even during rush hour.,0,,
+RVW00506,B001,Camden Market Café,Jordan Allen,True,32,3,2024-07-22,The flat white was spot on! The croissants are always fresh. The staff remembered my name—nice touch!,1,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-07-26
+RVW00507,B002,Shoreditch Express,Alex Garcia,True,14,3,2024-12-18,The chai latte lacked flavour.,3,,
+RVW00508,B001,Camden Market Café,Jamie Young,False,27,5,2024-03-25,Their matcha latte is my new favourite. The chai latte lacked flavour. Queue moved faster than expected.,1,"Hi Jamie, sorry we missed the mark. We'll share your feedback with the team.",2024-03-28
+RVW00509,B001,Camden Market Café,Pat Allen,False,15,5,2024-04-07,Not impressed with the cleanliness this time.,0,"We’re glad you enjoyed your visit, Pat! —Team My Coffee",2024-04-12
+RVW00510,B005,Greenwich Park Kiosk,Alex Kim,True,26,3,2024-08-22,Outdoor seating is perfect on sunny days. Music was too loud for my taste.,0,"Hi Alex, sorry we missed the mark. We'll share your feedback with the team.",2024-08-22
+RVW00511,B005,Greenwich Park Kiosk,Pat Smith,False,28,5,2024-09-14,Outdoor seating is perfect on sunny days. The flat white was spot on!,4,,
+RVW00512,B001,Camden Market Café,Jordan Brown,False,24,5,2024-12-02,The staff remembered my name—nice touch! Found a seat easily even during rush hour.,1,,
+RVW00513,B004,Notting Hill Roastery,Riley Smith,True,30,4,2025-01-04,The chai latte lacked flavour. Queue moved faster than expected. Friendly barista but order got mixed up.,0,"Hi Riley, sorry we missed the mark. We'll share your feedback with the team.",2025-01-04
+RVW00514,B004,Notting Hill Roastery,Jamie Smith,False,33,5,2024-08-14,Nitro cold brew was fantastic. The flat white was spot on!,2,,
+RVW00515,B001,Camden Market Café,Dana Hill,False,31,5,2025-02-07,The flat white was spot on! Found a seat easily even during rush hour.,1,"Hi Dana, sorry we missed the mark. We'll share your feedback with the team.",2025-02-13
+RVW00516,B005,Greenwich Park Kiosk,Avery Brown,False,30,3,2025-03-14,Great place to catch up with friends. Nitro cold brew was fantastic. Not impressed with the cleanliness this time.,4,,
+RVW00517,B006,Brixton Hub,Alex Allen,False,19,3,2024-09-18,The chai latte lacked flavour.,0,"Thanks for the kind words, Alex! Hope to see you again soon.",2024-09-23
+RVW00518,B005,Greenwich Park Kiosk,Lee Clark,False,24,5,2024-07-03,Nitro cold brew was fantastic.,0,"Hi Lee, sorry we missed the mark. We'll share your feedback with the team.",2024-07-07
+RVW00519,B005,Greenwich Park Kiosk,Dana Young,True,27,5,2024-03-20,Friendly barista but order got mixed up. The staff remembered my name—nice touch!,0,,
+RVW00520,B001,Camden Market Café,Robin Kim,False,15,4,2024-09-30,"I enjoyed the pastries, though the coffee was a bit bitter.",0,,
+RVW00521,B006,Brixton Hub,Cameron Harris,True,26,4,2025-03-08,Queue moved faster than expected. Not impressed with the cleanliness this time. Found a seat easily even during rush hour.,2,"Appreciate the feedback, Cameron. We'll work on improving.",2025-03-08
+RVW00522,B004,Notting Hill Roastery,Sam Hill,True,35,3,2024-08-21,"Limited plug sockets, bring a charged laptop. The croissants are always fresh. Outdoor seating is perfect on sunny days.",1,"We’re glad you enjoyed your visit, Sam! —Team My Coffee",2024-08-28
+RVW00523,B002,Shoreditch Express,Riley Kim,False,28,4,2025-01-23,The chai latte lacked flavour. Prices are fair for London.,2,,
+RVW00524,B004,Notting Hill Roastery,Jess Young,False,28,5,2024-10-11,The staff remembered my name—nice touch! Found a seat easily even during rush hour.,1,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-10-14
+RVW00525,B003,Southbank Riverside,Pat Wright,False,18,5,2025-03-20,"Friendly barista but order got mixed up. Great place to catch up with friends. Limited plug sockets, bring a charged laptop.",1,"Appreciate the feedback, Pat. We'll work on improving.",2025-03-25
+RVW00526,B004,Notting Hill Roastery,Cameron Hill,False,32,4,2025-02-10,Cosy spot to work with free Wi‑Fi. Great place to catch up with friends.,1,,
+RVW00527,B003,Southbank Riverside,Lee Clark,False,22,3,2024-12-22,Great coffee and lovely atmosphere.,1,,
+RVW00528,B006,Brixton Hub,Jess Young,False,24,5,2024-02-03,Queue moved faster than expected. Their matcha latte is my new favourite.,3,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-02-05
+RVW00529,B004,Notting Hill Roastery,Jess Hill,False,22,4,2024-09-28,Prices are fair for London.,1,"Thanks for the kind words, Jess! Hope to see you again soon.",2024-09-28
+RVW00530,B005,Greenwich Park Kiosk,Avery Jones,True,22,5,2024-09-20,The chai latte lacked flavour. Queue moved faster than expected. Great coffee and lovely atmosphere.,0,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-09-26
+RVW00531,B002,Shoreditch Express,Chris Brown,True,31,4,2024-01-15,The flat white was spot on!,2,"We’re glad you enjoyed your visit, Chris! —Team My Coffee",2024-01-17
+RVW00532,B003,Southbank Riverside,Avery Harris,True,19,3,2025-03-07,Music was too loud for my taste. The flat white was spot on!,2,,
+RVW00533,B003,Southbank Riverside,Pat Hill,True,24,5,2024-04-25,"Found a seat easily even during rush hour. Limited plug sockets, bring a charged laptop.",2,,
+RVW00534,B001,Camden Market Café,Robin Brown,False,30,5,2025-04-01,Service was quick and friendly.,1,,
+RVW00535,B004,Notting Hill Roastery,Jamie Clark,False,31,5,2024-06-15,"Cosy spot to work with free Wi‑Fi. I enjoyed the pastries, though the coffee was a bit bitter. Nitro cold brew was fantastic.",3,"We’re glad you enjoyed your visit, Jamie! —Team My Coffee",2024-06-15
+RVW00536,B004,Notting Hill Roastery,Robin Allen,False,20,3,2024-09-18,"Limited plug sockets, bring a charged laptop. Prices are fair for London.",2,,
+RVW00537,B002,Shoreditch Express,Avery Brown,False,20,5,2024-01-18,The croissants are always fresh. Service was quick and friendly.,3,"Thanks for the kind words, Avery! Hope to see you again soon.",2024-01-22
+RVW00538,B001,Camden Market Café,Robin Patel,False,24,3,2025-01-04,The croissants are always fresh. Music was too loud for my taste.,2,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2025-01-07
+RVW00539,B004,Notting Hill Roastery,Alex Wright,False,36,5,2024-03-31,Cosy spot to work with free Wi‑Fi.,1,"We’re glad you enjoyed your visit, Alex! —Team My Coffee",2024-04-05
+RVW00540,B003,Southbank Riverside,Chris Garcia,False,25,2,2024-08-16,The croissants are always fresh. Service was quick and friendly.,2,"Thanks for the kind words, Chris! Hope to see you again soon.",2024-08-16
+RVW00541,B006,Brixton Hub,Robin Lewis,False,26,5,2024-04-19,"Limited plug sockets, bring a charged laptop. I enjoyed the pastries, though the coffee was a bit bitter.",3,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-04-22
+RVW00542,B004,Notting Hill Roastery,Quinn Patel,True,28,4,2024-06-05,Loved the vegan options on the menu. Found a seat easily even during rush hour. Friendly barista but order got mixed up.,1,"Thanks for the kind words, Quinn! Hope to see you again soon.",2024-06-11
+RVW00543,B006,Brixton Hub,Cameron Walker,False,30,5,2024-04-07,Music was too loud for my taste. Friendly barista but order got mixed up. Found a seat easily even during rush hour.,2,,
+RVW00544,B004,Notting Hill Roastery,Quinn Patel,False,19,1,2024-12-03,"I enjoyed the pastries, though the coffee was a bit bitter. Cosy spot to work with free Wi‑Fi.",1,"Hi Quinn, sorry we missed the mark. We'll share your feedback with the team.",2024-12-06
+RVW00545,B001,Camden Market Café,Jess Young,True,27,5,2025-01-24,"Limited plug sockets, bring a charged laptop. The flat white was spot on!",2,,
+RVW00546,B004,Notting Hill Roastery,Cameron Chen,False,25,5,2024-05-01,The chai latte lacked flavour. Music was too loud for my taste. Cosy spot to work with free Wi‑Fi.,4,,
+RVW00547,B004,Notting Hill Roastery,Lee Lewis,False,26,4,2024-03-08,Great place to catch up with friends.,4,,
+RVW00548,B003,Southbank Riverside,Skyler Kim,True,35,5,2025-01-18,Friendly barista but order got mixed up.,0,,
+RVW00549,B003,Southbank Riverside,Drew Lewis,False,24,5,2024-08-20,Not impressed with the cleanliness this time. The chai latte lacked flavour.,1,,
+RVW00550,B002,Shoreditch Express,Taylor Jones,False,32,4,2024-09-01,Loved the vegan options on the menu. Nitro cold brew was fantastic.,1,"Appreciate the feedback, Taylor. We'll work on improving.",2024-09-05
+RVW00551,B002,Shoreditch Express,Casey Wright,False,29,4,2025-02-06,Loved the vegan options on the menu. Prices are fair for London. Their matcha latte is my new favourite.,3,"We’re glad you enjoyed your visit, Casey! —Team My Coffee",2025-02-09
+RVW00552,B001,Camden Market Café,Jordan Johnson,False,19,5,2024-02-08,Queue moved faster than expected. The flat white was spot on! Not impressed with the cleanliness this time.,4,,
+RVW00553,B005,Greenwich Park Kiosk,Cameron Walker,False,23,2,2024-07-31,The staff remembered my name—nice touch! Friendly barista but order got mixed up.,3,,
+RVW00554,B001,Camden Market Café,Avery Lewis,False,22,5,2024-08-28,Their matcha latte is my new favourite. Nitro cold brew was fantastic.,2,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2024-09-04
+RVW00555,B006,Brixton Hub,Quinn Allen,False,27,3,2025-02-18,The croissants are always fresh. Not impressed with the cleanliness this time.,1,,
+RVW00556,B001,Camden Market Café,Dana Lewis,True,23,5,2024-08-29,Great place to catch up with friends. Prices are fair for London.,3,"Thanks for the kind words, Dana! Hope to see you again soon.",2024-08-30
+RVW00557,B006,Brixton Hub,Jess Young,True,31,2,2024-12-22,Great coffee and lovely atmosphere. The flat white was spot on! The staff remembered my name—nice touch!,1,,
+RVW00558,B006,Brixton Hub,Jordan Lewis,True,22,1,2024-06-24,The croissants are always fresh. The flat white was spot on!,3,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-06-26
+RVW00559,B002,Shoreditch Express,Alex King,False,34,4,2024-03-02,Their matcha latte is my new favourite. Not impressed with the cleanliness this time.,2,,
+RVW00560,B004,Notting Hill Roastery,Chris Allen,False,38,3,2024-01-19,Prices are fair for London. Friendly barista but order got mixed up.,1,"We’re glad you enjoyed your visit, Chris! —Team My Coffee",2024-01-25
+RVW00561,B004,Notting Hill Roastery,Casey Singh,False,28,3,2024-03-13,The croissants are always fresh. Found a seat easily even during rush hour.,3,,
+RVW00562,B006,Brixton Hub,Robin Kim,False,41,5,2025-02-10,Great place to catch up with friends.,1,"Thanks for the kind words, Robin! Hope to see you again soon.",2025-02-12
+RVW00563,B003,Southbank Riverside,Robin Allen,True,24,4,2024-01-10,The chai latte lacked flavour. Prices are fair for London.,2,"Hi Robin, sorry we missed the mark. We'll share your feedback with the team.",2024-01-14
+RVW00564,B002,Shoreditch Express,Skyler Allen,True,17,3,2024-07-29,Nitro cold brew was fantastic. The chai latte lacked flavour.,4,"We’re glad you enjoyed your visit, Skyler! —Team My Coffee",2024-08-02
+RVW00565,B002,Shoreditch Express,Casey Martin,False,20,5,2024-01-26,Queue moved faster than expected. The croissants are always fresh.,2,"Appreciate the feedback, Casey. We'll work on improving.",2024-01-30
+RVW00566,B002,Shoreditch Express,Skyler Lee,False,23,5,2024-04-23,The chai latte lacked flavour.,2,,
+RVW00567,B006,Brixton Hub,Jordan King,False,29,3,2024-10-27,Service was quick and friendly. Great coffee and lovely atmosphere.,2,,
+RVW00568,B004,Notting Hill Roastery,Cameron Johnson,True,24,5,2024-01-25,"I enjoyed the pastries, though the coffee was a bit bitter.",1,"Hi Cameron, sorry we missed the mark. We'll share your feedback with the team.",2024-01-30
+RVW00569,B001,Camden Market Café,Avery Kim,False,21,5,2024-12-31,The staff remembered my name—nice touch!,3,"Hi Avery, sorry we missed the mark. We'll share your feedback with the team.",2025-01-04
+RVW00570,B006,Brixton Hub,Jess Walker,False,30,5,2025-02-03,Prices are fair for London. The flat white was spot on!,3,"Appreciate the feedback, Jess. We'll work on improving.",2025-02-05
+RVW00571,B003,Southbank Riverside,Robin Smith,True,26,3,2024-03-20,Not impressed with the cleanliness this time.,0,,
+RVW00572,B006,Brixton Hub,Kris Wright,False,28,3,2025-02-23,Loved the vegan options on the menu. Service was quick and friendly. Their matcha latte is my new favourite.,1,"We’re glad you enjoyed your visit, Kris! —Team My Coffee",2025-03-01
+RVW00573,B006,Brixton Hub,Dana Martin,True,29,5,2024-07-13,Music was too loud for my taste. Friendly barista but order got mixed up. Their matcha latte is my new favourite.,1,,
+RVW00574,B006,Brixton Hub,Avery Lee,False,24,5,2025-01-19,The chai latte lacked flavour. Queue moved faster than expected. Service was quick and friendly.,1,"Appreciate the feedback, Avery. We'll work on improving.",2025-01-22
+RVW00575,B001,Camden Market Café,Taylor Allen,False,25,5,2024-09-23,Their matcha latte is my new favourite. Not impressed with the cleanliness this time. Outdoor seating is perfect on sunny days.,0,,
+RVW00576,B001,Camden Market Café,Morgan Kim,True,31,5,2024-04-28,Music was too loud for my taste. Great place to catch up with friends.,0,,
+RVW00577,B005,Greenwich Park Kiosk,Jordan Lewis,False,25,5,2024-11-11,Great coffee and lovely atmosphere.,0,"We’re glad you enjoyed your visit, Jordan! —Team My Coffee",2024-11-14
+RVW00578,B003,Southbank Riverside,Dana Lee,False,24,5,2024-08-14,Friendly barista but order got mixed up. Great coffee and lovely atmosphere.,2,"Appreciate the feedback, Dana. We'll work on improving.",2024-08-15
+RVW00579,B005,Greenwich Park Kiosk,Chris Garcia,False,32,5,2024-08-13,"Limited plug sockets, bring a charged laptop. I enjoyed the pastries, though the coffee was a bit bitter.",3,,
+RVW00580,B005,Greenwich Park Kiosk,Drew Clark,False,29,4,2024-10-14,The croissants are always fresh. Not impressed with the cleanliness this time.,2,,
+RVW00581,B002,Shoreditch Express,Dana Martin,False,31,4,2024-02-27,Service was quick and friendly. Loved the vegan options on the menu.,1,"Thanks for the kind words, Dana! Hope to see you again soon.",2024-02-27
+RVW00582,B001,Camden Market Café,Lee Smith,True,19,4,2025-02-19,The chai latte lacked flavour. Great coffee and lovely atmosphere.,0,"Thanks for the kind words, Lee! Hope to see you again soon.",2025-02-26
+RVW00583,B002,Shoreditch Express,Sam Lee,False,33,4,2025-02-19,Queue moved faster than expected.,2,,
+RVW00584,B004,Notting Hill Roastery,Chris King,True,23,5,2024-04-12,Not impressed with the cleanliness this time. The staff remembered my name—nice touch!,0,,
+RVW00585,B001,Camden Market Café,Morgan Johnson,False,26,5,2024-01-03,The staff remembered my name—nice touch! Friendly barista but order got mixed up.,1,,
+RVW00586,B004,Notting Hill Roastery,Quinn Singh,False,24,3,2024-10-25,Their matcha latte is my new favourite.,1,,
+RVW00587,B005,Greenwich Park Kiosk,Sam Harris,False,24,5,2024-11-19,Friendly barista but order got mixed up.,2,,
+RVW00588,B003,Southbank Riverside,Kris Lee,True,28,4,2025-03-09,The chai latte lacked flavour. Great coffee and lovely atmosphere.,2,"Thanks for the kind words, Kris! Hope to see you again soon.",2025-03-16
+RVW00589,B003,Southbank Riverside,Quinn Clark,False,23,4,2024-10-19,"Limited plug sockets, bring a charged laptop. Prices are fair for London. Queue moved faster than expected.",3,"We’re glad you enjoyed your visit, Quinn! —Team My Coffee",2024-10-21
+RVW00590,B001,Camden Market Café,Drew Brown,True,30,5,2024-02-14,Friendly barista but order got mixed up. The flat white was spot on!,2,"Thanks for the kind words, Drew! Hope to see you again soon.",2024-02-21
+RVW00591,B004,Notting Hill Roastery,Chris Jones,True,35,5,2024-12-15,Outdoor seating is perfect on sunny days. Great coffee and lovely atmosphere.,1,"Thanks for the kind words, Chris! Hope to see you again soon.",2024-12-17
+RVW00592,B002,Shoreditch Express,Jamie Young,False,28,5,2025-02-10,The chai latte lacked flavour.,0,"Hi Jamie, sorry we missed the mark. We'll share your feedback with the team.",2025-02-10
+RVW00593,B002,Shoreditch Express,Robin Walker,False,24,5,2024-09-15,Great place to catch up with friends. Their matcha latte is my new favourite. The chai latte lacked flavour.,0,"Thanks for the kind words, Robin! Hope to see you again soon.",2024-09-20
+RVW00594,B006,Brixton Hub,Sam Wright,False,27,5,2024-02-04,The flat white was spot on! Service was quick and friendly.,1,"Thanks for the kind words, Sam! Hope to see you again soon.",2024-02-09
+RVW00595,B001,Camden Market Café,Casey Martin,False,28,3,2025-01-22,Cosy spot to work with free Wi‑Fi.,0,"Appreciate the feedback, Casey. We'll work on improving.",2025-01-28
+RVW00596,B004,Notting Hill Roastery,Jess Hill,False,30,5,2024-02-11,Prices are fair for London.,1,"Hi Jess, sorry we missed the mark. We'll share your feedback with the team.",2024-02-17
+RVW00597,B001,Camden Market Café,Jordan Martin,False,28,3,2025-02-18,"The staff remembered my name—nice touch! Music was too loud for my taste. Limited plug sockets, bring a charged laptop.",0,,
+RVW00598,B004,Notting Hill Roastery,Pat Brown,False,24,4,2024-01-08,Loved the vegan options on the menu. Great place to catch up with friends. The staff remembered my name—nice touch!,1,"Thanks for the kind words, Pat! Hope to see you again soon.",2024-01-08
+RVW00599,B003,Southbank Riverside,Riley Johnson,False,24,5,2024-02-28,"I enjoyed the pastries, though the coffee was a bit bitter.",2,"Appreciate the feedback, Riley. We'll work on improving.",2024-03-05
+RVW00600,B005,Greenwich Park Kiosk,Jess Hill,False,21,5,2025-01-10,Queue moved faster than expected. Their matcha latte is my new favourite. Friendly barista but order got mixed up.,1,,
